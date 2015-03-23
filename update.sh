@@ -4,6 +4,8 @@ git config --global user.mail contact@eerlijkeverkiezingen.nl
 
 git config --global -l
 
+git status 
+
 git add .
 git commit -m "[`date +%F`] - auto update"
 git push
