@@ -1,0 +1,76 @@
+{ "form":"demografie",
+  "action":"/demografie.php",
+  "method":"POST",
+  "items":[
+	{"type":"group", "items":[
+		{"name":"titel-van-lichaam", "type":"select", "required":"yes", "options":{"bijzondere-gemeente":"Bijzondere Gemeente","gemeente":"Gemeente","provincie":"Provincie","staten-generaal":"der Staten-Generaal","hoogheemraadschap":"Hoogheemraadschap","waterschap":"Waterschap","wetterskip":"Wetterskip","vertegenwoordiging":"Vertegenwoordiging in"}},
+		{"name":"naam", "type":"text"}]
+	},
+	{"name":"website", "type":"url", "placeholder":"http://www.", "prefix":"Website"},
+	{"name":"email", "type":"email", "placeholder":"post@website.nl", "prefix":"Email adres"},
+	{"name":"plaatsnamen", "type":"tag-it", "prefix":"Plaatsnamen", "list":"citynames"},
+	{"name":"oppervlakte", "type":"double", "step":"0.01", "min":"0", "placeholder":"0,00", "maxlength":"8", "prefix":"Landoppervlakte", "field-postfix":"km<sup>2</sup>"},
+	"---",
+	{"name":"verkiezing","type":"set","multiple":"true","items":[
+		{"name":"datum","type":"date","prefix":"Verkiezingen van"},
+		{"name":"type","type":"select","options":{"tweede-kamer":"Tweede Kamer der Staten-Generaal","eerste-kamer":"Eerste Kamer der Staten-Generaal","provincie":"Provinciale Staten","gemeente":"Gemeenteraadsverkiezingen","waterschappen":"Waterschapsverkiezingen","europa":"Europese verkiezingen","referendum":"Referendum"}},
+		{"name":"noemer","value":""},
+		{"name":"budget","type":"set","multiple":"true","prefix":"Budget","items":[
+			{"name":"post","list":"budgetposten"},
+			{"name":"bedrag","type":"valuta","field-prefix":"&euro;","placeholder":"0","min":"0"}
+		]},
+		{"name":"inwoners", "type":"number", "min":"0", "placeholder":"0", "prefix":"Inwoners"},
+		{"name":"kiesgerechtigden", "type":"number", "min":"0", "placeholder":"0", "prefix":"Kiesgerechtigden"},
+		{"name":"opkomst","type":"number","prefix":"Opkomst","step":"0.01","min":"0","max":"100","placeholder":"0,0","field-postfix":"%","derivable":"(stemmen[uitgebracht]/kiesgerechtigden)*100%"},
+		{"name":"stemmen","prefix":"Stemmen","type":"set","items":[
+			{"name":"ongeldig","type":"number","postfix":"ongeldig","placeholder":"0"},
+			{"name":"blanco","type":"number","postfix":"blanco","placeholder":"0"},
+			{"name":"uitgebracht","type":"number","postfix":"uitgebracht","placeholder":"0"}
+		]},
+		"---",
+		{"name":"uitslag","type":"set","class":"spreadsheet","multiple":"true","items":[
+			{"name":"partij","list":"partijen"},
+			{"name":"stemmen","type":"value"},
+			{"name":"raadslid","type":"value","rule":"conditional"},
+			{"name":"fractievolger","type":"value","rule":"conditional"},
+			{"name":"wethouder","type":"value","rule":"conditional"},
+			{"name":"burgemeester","type":"value","rule":"conditional","max":"1"},
+			{"name":"gedeputeerde","type":"value","rule":"conditional"},
+			{"name":"kamerlid","type":"value","rule":"conditional"},
+			{"name":"staatsecretaris","type":"value","rule":"conditional"},
+			{"name":"minister","type":"value","rule":"conditional"},
+			{"name":"coalitie","type":"checkbox","value":"yes","rule":"conditional"}
+		]},
+		"---",
+		{"name":"personeel", "multiple":"true", "type":"group", "items":[
+			{"name":"aantal","type":"number","placeholder":"0","derivable":"SUM(uitslag[][%rol])", "conditional":{"raadslid":{"max":"45", "min":"9", "step":"2"},"kamerlid":{"min":"75","max":"150","step":"75"}, "burgemeester":{"max":"1"} }, "min":"0"},
+			{"name":"rol","list":"rollen"},
+			" krijgen elk ",
+			{"name":"bedrag","type":"valuta","field-prefix":"&euro;","step":"0.01", "min":"0", "placeholder":"0,00"},
+			{"name":"interval", "type":"select", "options":{"monthly":"per maand","weekly":"per week","yearly":"per jaar","quarterly":"per kwartaal","session":"per vergadering","distance":"per kilometer"}},
+			{"name":"type","type":"select","options":["vergoeding","salaris","bezoldiging"]}
+		]}
+	]},
+	"---",
+	{"id":"submit", "type":"submit", "class":"submit-button", "value":"Verwerken"}
+  ],
+  "keys": [
+	{"type":"primary key","items":["titel-van-lichaam","naam"],"required":"true"},
+	{"type":"unique","items":["website"]},
+	{"type":"unique","items":["email"]},
+	{"type":"unique","items":["[][datum]","[][type]","[][noemer]"],"range":"verkiezing","required":"true"},
+	{"type":"unique","items":["[][partij]"],"range":"verkiezing[][uitslag]","required":"true"},
+	{"type":"unique","items":["[][rol]","[][interval]","[][interval]","[][interval]","[][type]"],"range":"verkiezing[][personeel]","required":"true"}
+  ],
+  "condition": [
+	{"type":"hide","when":"verkiezing[][type=tweede-kamer]","items":["verkiezing[][noemer]","verkiezing[][uitslag][][raadsleden]","verkiezing[][uitslag][][fractievolgers]","verkiezing[][uitslag][][wethouders]","verkiezing[][uitslag][][coalitie]","verkiezing[][raadslid]","verkiezing[][fractievolger]","verkiezing[][wethouder]"]}
+  ],
+  "datalist": [
+	{"id":"rollen", "options":["raadslid", "fractievolger", "wethouder", "burgemeester", "gedeputeerde", "commissaris van de koning", "kamerlid", "staatsecretaris", "minister"]},
+	{"id":"budgetposten", "options":["verkiezingsborden","debatten","stempassen","drukwerk","voorlichting","dag van stemming","uitslag evenement","kosten ambtenaren"]},
+	{"id":"citynames", "options":[]},
+	{"id":"partijen", "options":["VVD","PvdA","D66","GroenLinks","CDA","PVV","SP","SGP","ChristenUnie","50Plus","PvdD"]}
+  ],
+  "text": {"en":[],"fy":[]},
+  "default-language":"nl"
+}
