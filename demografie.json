@@ -3,7 +3,7 @@
   "method":"POST",
   "items":[
 	{"type":"group", "items":[
-		{"name":"titel-van-lichaam", "type":"select", "required":"yes", "options":{"bijzondere-gemeente":"Bijzondere Gemeente","gemeente":"Gemeente","provincie":"Provincie","staten-generaal":"der Staten-Generaal","hoogheemraadschap":"Hoogheemraadschap","waterschap":"Waterschap","wetterskip":"Wetterskip","vertegenwoordiging":"Vertegenwoordiging in"}},
+		{"name":"titel-van-lichaam", "type":"select", "required":"yes", "options":{"bijzondere-gemeente":"Bijzondere Gemeente","gemeente":"Gemeente","provincie":"Provincie","staten-generaal":"der Staten-Generaal","hoogheemraadschap":"Hoogheemraadschap","waterschap":"Waterschap","wetterskip":"Wetterskip","vertegenwoordiging":"Vertegenwoordiging in","ministerie":"Ministerie van","bestuursorgaan":"Bestuursorgaan","overheid":"Zelfstandige overheid"}},
 		{"name":"naam", "type":"text"}]
 	},
 	{"name":"website", "type":"url", "placeholder":"http://www.", "prefix":"Website"},
