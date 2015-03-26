@@ -20,7 +20,7 @@
 	{"type":"group", "items":[
 		{"name":"sinds", "type":"date", "prefix":"sinds"},
 		{"name":"tot", "type":"date", "prefix":"tot"},
-		{"name":"herdeling", "type":"tag-it", "prefix":"hernoeming cq. heringedeeld tot in","list":"leeg"}
+		{"name":"herdeling", "type":"tag-it", "prefix":"fusie cq. hernoeming tot of heringedeeld tot in","list":"leeg"}
 	]},
 	"---",
 	{"id":"submit", "type":"submit", "class":"submit-button", "value":"Verwerken"}

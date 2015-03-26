@@ -16,7 +16,7 @@ if [ -z "$COMMIT" ]; then
 fi
 
 if [ -z "$COMMIT" ]; then
-	COMMIT="auto update"
+	COMMIT="(auto update)"
 fi
 
 # //echo $COMMIT
