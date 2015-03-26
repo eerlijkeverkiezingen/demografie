@@ -4,5 +4,5 @@ Every file in [this directory](./openbaar lichaam/) contains an JSON data-object
 The database also contains some information about [political parties](./politieke partijen/).
 
 ## Datamodel
-*(as found in [demografie.json](../demografie.json))*
+*(as found in [demografie.json](../definitie/demografie.json))*
 (..)
