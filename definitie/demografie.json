@@ -4,8 +4,8 @@
   "items":[
 	{"type":"group", "items":[
 		{"name":"titel-van-lichaam", "type":"select", "required":"yes", "options":{"bijzondere-gemeente":"Bijzondere Gemeente","gemeente":"Gemeente","provincie":"Provincie","staten-generaal":"der Staten-Generaal","hoogheemraadschap":"Hoogheemraadschap","waterschap":"Waterschap","wetterskip":"Wetterskip","vertegenwoordiging":"Vertegenwoordiging in","ministerie":"Ministerie van","bestuursorgaan":"Bestuursorgaan","overheid":"Zelfstandige overheid"}},
-		{"name":"naam", "type":"text"}]
-	},
+		{"name":"naam", "type":"text", "required":"true"}
+	]},
 	{"name":"website", "type":"url", "placeholder":"http://www.", "prefix":"Website"},
 	{"name":"email", "type":"email", "placeholder":"post@website.nl", "prefix":"Email adres"},
 	{"name":"plaatsnamen", "type":"tag-it", "prefix":"Plaatsnamen", "list":"citynames"},

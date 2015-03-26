@@ -1,0 +1,41 @@
+{ "form":"topologie",
+  "action":"/topologie.php",
+  "method":"POST",
+  "items":[
+	{"type":"group", "items":[
+		{"name":"titel-van-lichaam", "type":"select", "required":"yes", "options":{"bijzondere-gemeente":"Bijzondere Gemeente","gemeente":"Gemeente","provincie":"Provincie","staten-generaal":"der Staten-Generaal","hoogheemraadschap":"Hoogheemraadschap","waterschap":"Waterschap","wetterskip":"Wetterskip","vertegenwoordiging":"Vertegenwoordiging in","ministerie":"Ministerie van","bestuursorgaan":"Bestuursorgaan","overheid":"Zelfstandige overheid"}},
+		{"name":"naam", "type":"text", "required":"true"}
+	]},
+	{"name":"adres","type":"set","multiple":"true","items":[
+			{"name":"type","type":"select","options":["postadres","bezoekadres"] },
+			{"name":"straat","title":"Street"},
+			{"name":"postcode","title":"Postcode"},
+			{"name":"plaatsnaam","title":"City"},
+			{"name":"land","list":"country","title":"Country","placeholder":"NL - Nederland","value":"NL - Nederland"}
+		], "prefix":"Adres"},
+	{"name":"website", "type":"url", "placeholder":"http://www.", "prefix":"Website"},
+	{"name":"email", "type":"email", "placeholder":"post@website.nl", "prefix":"Email adres"},
+	{"name":"provincie", "type":"tag-it", "prefix":"Gelegen in provincie", "list":"provincielijst"},
+	{"name":"waterschap", "type":"tag-it", "prefix":"Gelegen in waterschap", "list":"waterschaplijst"},
+	{"type":"group", "items":[
+		{"name":"sinds", "type":"date", "prefix":"sinds"},
+		{"name":"tot", "type":"date", "prefix":"tot"},
+		{"name":"herdeling", "type":"tag-it", "prefix":"hernoeming cq. heringedeeld tot in","list":"leeg"}
+	]},
+	"---",
+	{"id":"submit", "type":"submit", "class":"submit-button", "value":"Verwerken"}
+  ],
+  "keys": [
+	{"type":"primary key","items":["titel-van-lichaam","naam"],"required":"true"},
+	{"type":"unique","items":["website"]},
+	{"type":"unique","items":["email"]}
+  ],
+  "datalist": [
+	{"id":"leeg","options":[]},
+	{"id":"waterschaplijst","options":["Noorderzijlvest", "Frysl&acirc;n", "Hunze en Aa's", "Reest en Wieden", "Vechtstromen", "Groot Salland", "Vallei en Veluwe", "Rijn en IJssel", "De Stichtse Rijnlanden", "Amstel, Gooi en Vecht", "Hollands Noorderkwartier", "van Rijnland", "van Delfland", "van Schieland en de Krimpenerwaard", "Rivierenland", "Hollandse Delta", "Scheldestromen", "Brabantse Delta", "De Dommel", "Aa en Maas", "Peel en Maasvallei", "Roer en Overmaas", "Zuiderzeeland", "Blija Buitendijks"]},
+	{"id":"provincielijst","options":["Groningen","Friesland","Drenthe","Overijssel","Flevoland","Gelderland","Utrecht","Noord-Holland","Zuid-Holland","Zeeland","Noord-Brabant","Limburg"]},
+	{"id":"country", "options":["NL - Nederland","B - Belgi&euml;","D - Duitsland","UK - Verenigd Koninkrijk"]}
+  ],
+  "text": {"en":[],"fy":[]},
+  "default-language":"nl"
+}
