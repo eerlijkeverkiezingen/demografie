@@ -1,0 +1,187 @@
+[
+{
+	"naam":"VVD",
+	"adres":[{"straat":"Postbus 30836","postcode":"2500 GV","plaatsnaam":"Den Haag"}],
+	"telefoon":["070 - 361 30 61"],
+	"fax":["070 - 360 82 76"],
+	"email":["alg.sec@vvd.nl"],
+	"statutair":"Volkspartij voor Vrijheid en Democratie",
+	"gemachtigde":"mevrouw L.D. Wigboldus",
+	"plaatsvervanger":"de heer N. Mol"
+},
+{
+	"naam":"CDA - Europese Volkspartij",
+	"adres":[{"straat":"Buitenom 18","postcode":"2512 XA","plaatsnaam":"Den Haag"},
+	{"straat":"Postbus 30453","postcode":"2500 GL","plaatsnaam":"Den Haag"}],
+	"telefoon":["070 - 342 48 88"],
+	"fax":["070 - 364 34 17"],
+	"website":["http://www.cda.nl/"],
+	"statutair":"Christen Democratisch Appel",
+	"gemachtigde":"mevrouw H.M.C. Westera",
+	"plaatsvervanger":"mevrouw I.A. Zandbergen"
+},
+{
+	"naam":"P.v.d.A./Europese Sociaaldemocraten",
+	"adres":[{"straat":"Postbus 1310","postcode":"1000 BH","plaatsnaam":"Amsterdam"}],
+	"telefoon":["0900 - 9553"],
+	"fax":["020 - 551 22 50"],
+	"website":["http://www.pvda.nl/"],
+	"statutair":"Partij van de Arbeid",
+	"gemachtigde":"mevrouw L. Hurkmans",
+	"plaatsvervanger":"mevrouw G.J.M. Admiraal"
+},
+{
+	"naam":"Democraten 66 (D66) - ALDE",
+	"adres":[{"straat":"Postbus 660","postcode":"2501 CR","plaatsnaam":"Den Haag"}],
+	"telefoon":["070 - 356 60 66"],
+	"fax":["070 - 364 19 17"],
+	"website":["http://www.d66.nl/"],
+	"statutair":"Politieke Partij Democraten 66",
+	"gemachtigde":"mevrouw F.Q. Gräper - van Koolwijk",
+	"plaatsvervanger":"mevrouw B.M. Tool"
+},
+
+{
+	"naam":"ChristenUnie-SGP",
+	"adres":[{"straat":"Postbus 439","postcode":"3800 AK","plaatsnaam":"Amersfoort"}],
+	"telefoon":["033 - 422 69 69"],
+	"fax":["033 - 422 69 68"],
+	"website":["http://www.christenunie.nl/"],
+	"statutair":"ChristenUnie en De Staatkundig Gereformeerde Partij",
+	"gemachtigde":"de heer J.W. van Berkum",
+	"plaatsvervanger":"de heer P.A. Zevenbergen"
+},
+{
+	"naam":"SP (Socialistische Partij)",
+	"adres":[{"straat":"Snouckaertlaan 70","postcode":"3811 MB","plaatsnaam":"Amersfoort"}],
+	"telefoon":["088-2435555","06 - 51 177 067"],
+	"fax":["033-4625512"],
+	"email":["info@sp.nl"],
+	"website":["http://www.sp.nl/"],
+	"statutair":"Socialistische Partij",
+	"gemachtigde":"de heer J.G.C.A. Marijnissen",
+	"plaatsvervanger":"de heer J.G.C. van Heijningen"
+},
+{
+	"naam":"GROENLINKS",
+	"adres":[{"straat":"Postbus 8008","postcode":"3503 RA","plaatsnaam":"Utrecht"}],
+	"telefoon":["030 - 239 99 00"],
+	"fax":["030 - 230 03 42"],
+	"email":["partijbureau@groenlinks.nl"],
+	"statutair":"GroenLinks",
+	"gemachtigde":"mevrouw H. van der Putte",
+	"plaatsvervanger":"mevrouw V. van Teeseling"
+},
+{
+	"naam":"Partij voor de Dieren",
+	"adres":[{"straat":"Postbus 17622","postcode":"1001 JM","plaatsnaam":"Amsterdam"}],
+	"telefoon":["020 - 5203870"],
+	"email":["info@partijvoordedieren.nl"],
+	"website":["http://www.partijvoordedieren.nl/"],
+	"statutair":"Partij voor de Dieren",
+	"gemachtigde":"mevrouw C.P. Keller",
+	"plaatsvervanger":"de heer P.M. Boogaard"
+},
+{
+	"naam":"Liberaal Democratische Partij",
+	"adres":[{"straat":"Beelslaan 26","postcode":"2012 PK","plaatsnaam":"Haarlem"}],
+	"telefoon":["06 - 22605106"],
+	"email":["info@libdem.nl"],
+	"website":["http://www.libdem.nl/"],
+	"statutair":"Liberaal Democratische Partij",
+	"gemachtigde":"mevrouw L.E. Beijlsmit",
+	"plaatsvervanger":"de heer S.E. van Tuyll van Serooskerken"
+},
+{
+	"naam":"PVV (Partij voor de Vrijheid)",
+	"adres":[{"straat":"Binnenhof 1 A","postcode":"2513 AA","plaatsnaam":"Den Haag"},
+	{"straat":"Postbus 20018","postcode":"2500 EA","plaatsnaam":"Den Haag"}],
+	"telefoon":["070 - 318 28 67"],
+	"website":["http://www.pvv.nl/"],
+	"statutair":"Partij voor de Vrijheid",
+	"gemachtigde":"de heer G. Wilders",
+	"plaatsvervanger":"mevrouw V.Maeijer"
+},
+{
+	"naam":"De Groenen",
+	"adres":[{"straat":"Postbus 1251","postcode":"3500 BG","plaatsnaam":"Utrecht"}],
+	"telefoon":["030 – 234 15 45"],
+	"email":["info@degroenen.nl"],
+	"website":["http://www.degroenen.nl/"],
+	"statutair":"De Groenen",
+	"gemachtigde":"de heer O.H. ter Haar",
+	"plaatsvervanger":"mevrouw J.A.C. Verburg"
+},
+{
+	"naam":"Artikel50",
+	"adres":[{"straat":"B&acirc;t Altiere Spinelli ASP 07F265
+60 Wiertzstraat","postcode":"","plaatsnaam":"Brussel","land":"B - Belgi&euml;"}],
+	"telefoon":["0032 2 284 7176"],
+	"statutair":"Vereniging Artikel50",
+	"gemachtigde":"de heer D. van der Stoep",
+	"plaatsvervanger":"de heer N. van Bohemen"
+},
+{
+	"naam":"50PLUS",
+	"adres":[{"straat":"Kneuterdijk 2","postcode":"2514 EN","plaatsnaam":"Den Haag"}],
+	"telefoon":["0800-5250502","070-8009270"],
+	"email":["info@50pluspartij.nl"],
+	"website":["http://www.50pluspartij.nl/"],
+	"statutair":"Onafhankelijke Ouderen en Kinderen Unie (OOKU) 50PLUS",
+	"gemachtigde":" J.W.A. Struijlaard",
+	"plaatsvervanger":"M. Koopman"
+},
+{
+	"naam":"ikkiesvooreerlijk.eu",
+	"adres":[{"straat":"Zeilstraat 67","postcode":"2586 RB","plaatsnaam":"Den Haag"}],
+	"telefoon":["070-2111602"],
+	"email":["scheveningen67@hotmail.com"],
+	"statutair":"ikkiesvooreerlijk.eu",
+	"gemachtigde":"F.J. Schulte",
+	"plaatsvervanger":"M.W.J. van den Brink"
+},
+{
+	"naam":"JEZUS LEEFT",
+	"adres":[{"straat":"A.M.A. van Langeraadweg 7","postcode":"3381 LB","plaatsnaam":"Giessenburg"}],
+	"email":["info@jezusleeft.nl"],
+	"website":["http://www.jezusleeft.nl/"],
+	"statutair":"JEZUS LEEFT",
+	"gemachtigde":"J.A.C. van Ooijen",
+	"plaatsvervanger":"P. van Ooijen"
+},
+{
+	"naam":"Anti  EU(ro)  Partij",
+	"adres":[{"straat":"Dukatenburg 44B","postcode":"3437 AD","plaatsnaam":"Nieuwegein"}],
+	"telefoon":["06-37179569"],
+	"email":["anti.europa.partij@gmail.com"],
+	"statutair":"Vereniging Anti Europa Partij",
+	"gemachtigde":"J.T.G. Rijnders",
+	"plaatsvervanger":"C.J. Ruffino-Pieron"
+},
+{
+	"naam":"Piratenpartij",
+	"adres":[{"straat":"J. Baart de la Faillestraat 25a","postcode":"9713 JB","plaatsnaam":"Groningen"}],
+	"telefoon":["06-20432878"],
+	"email":["secretariaat@piratenpartij.nl"],
+	"statutair":"Piratenpartij",
+	"gemachtigde":"H. Heslinga",
+	"plaatsvervanger":"S. Russchenberg"
+},
+{
+	"naam":"IQ, de Rechten-Plichten-Partij",
+	"adres":[{"straat":"Griegstraat 7","postcode":"2625 AG","plaatsnaam":"Delft"}],
+	"telefoon":["06-39796116"],
+	"email":["IQ.Partij@gmail.com"],
+	"statutair":"IQ, de Rechten-Plichten-Partij",
+	"gemachtigde":"G. Niessen",
+	"plaatsvervanger":"D. van Zeggelen"
+},
+{
+	"naam":"Aandacht en Eenvoud",
+	"adres":[{"straat":"Haagsebos 31","postcode":"2715 XP","plaatsnaam":"Zoetermeer"}],
+	"email":["abraham@mijneu.eu"],
+	"statutair":"Aandacht en Eenvoud",
+	"gemachtigde":"A. de Kruijf",
+	"plaatsvervanger":"R. Brons"
+}
+]

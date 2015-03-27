@@ -1,0 +1,33 @@
+[
+{
+	"naam":"Onafhankelijke Senaatsfractie",
+	"adres":[{"aanhef":"Secretaris OSF, mevrouw N. Nieuwenhuizen","straat":"De Vennen 27","postcode":"9321 HS","plaatsnaam":"Peize"}],
+	"telefoon":["050-503363"],
+	"email":["n.nieuwenhuizen@opd.nl"],
+	"statutair":"Onafhankelijke Senaatsfractie"
+},
+{
+	"naam":"Lokaal Brabant",
+	"adres":[{"straat":"Persephonestraat 5-03","postcode":"5047 TT","plaatsnaam":"Tilburg"}],
+	"telefoon":["0642154929"],
+	"email":["voorzitter@lokaalbrabant.nl"],
+	"gemachtigde":"J.C.P. van Gorp",
+	"plaatsvervanger":"J.H.W.F. Heijman"
+},
+{
+	"naam":"VRIJ MANDAAT",
+	"adres":[{"straat":"Wedderstraat 85","postcode":"9541 VM","plaatsnaam":"Vlagtwedde"}],
+	"telefoon":["0630479128"],
+	"gemachtigde":"J.W.M. Veerenhuis-Lens",
+	"plaatsvervanger":"J.J. Veerenhuis"
+},
+{
+	"naam":"PSP'92",
+	"adres":[{"straat":"Kluizeweg 254","postcode":"6815 EJ","plaatsnaam":"Arnhem"}],
+	"telefoon":["0263517285"],
+	"email":["bestuur@psp92.nl"],
+	"statutair":"Pacifistisch-Socialistische Partij '92",
+	"gemachtigde":"R. Barends",
+	"plaatsvervanger":"A.J. Kon"
+}
+]

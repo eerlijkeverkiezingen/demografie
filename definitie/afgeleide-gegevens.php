@@ -24,6 +24,7 @@ class afgeleid {
 				break;
 			case "partij": 
 				if(file_exists( $this->_get_location($item) )){ $set = json_decode(file_get_contents($this->_get_location($item)), TRUE); if(!is_array($set)){ $set = array(); } }
+				$set = array_merge($set, $this->extract_kiesraad_register() );
 				break;
 			case "plaatsnaam":
 				if(file_exists( $this->_get_location($item) )){
@@ -59,6 +60,18 @@ class afgeleid {
 				//print $topo['titel-van-lichaam'].'='.$topo['naam'].' ';
 				$set[] = $topo['naam']; 
 			}			
+		}
+		//print_r($set);
+		return $set;
+	}
+	function extract_kiesraad_register($item=NULL){
+		//*fix*/ $item = preg_replace("#[^a-z-]#", "", $item);
+		$set = $raw = array();
+		foreach(array('eerste-kamer','tweede-kamer','europa') as $titelvanlichaam){
+			if($item === NULL || strtolower($item) == $titelvanlichaam){ $raw = array_merge($raw, json_decode(file_get_contents(dirname($this->_get_location()).'/politieke partij/kiesraad-register-'.$titelvanlichaam.'.json'), TRUE)); }
+		}
+		foreach($raw as $i=>$topo){
+			$set[] = $topo['naam']; 
 		}
 		//print_r($set);
 		return $set;
