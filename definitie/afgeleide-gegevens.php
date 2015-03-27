@@ -22,14 +22,25 @@ class afgeleid {
 				if(file_exists( $this->_get_location($item) )){ $set = json_decode(file_get_contents($this->_get_location($item)), TRUE); if(!is_array($set)){ $set = array(); } }
 				$set = array_merge($set, $this->extract_topologie('waterschap'), $this->extract_topologie('hoogheemraadschap'), $this->extract_topologie('wetterskip') );
 				break;
-			case "partij": break;
-			case "plaatsnaam": break;
+			case "partij": 
+				if(file_exists( $this->_get_location($item) )){ $set = json_decode(file_get_contents($this->_get_location($item)), TRUE); if(!is_array($set)){ $set = array(); } }
+				break;
+			case "plaatsnaam":
+				if(file_exists( $this->_get_location($item) )){
+					$raw = file_get_contents($this->_get_location($item));
+					$set = json_decode($raw, TRUE);
+					//$this->json_errors($raw);
+					//print 'RAW: '; print_r($raw);
+					//if(!is_array($set)){ $set = array(); }
+				}
+				break;
 			default:
 		}
 		//print_r($set);
 		$set = array_unique($set);
 		asort($set);
 		$set = array_values($set);
+		//print_r($set);
 		
 		$out = $this->opslaan($item, $set);
 		//print_r($out);
@@ -139,6 +150,6 @@ print '<pre>';
 $afgeleid = new afgeleid();
 print_r( $afgeleid );
 $out = $afgeleid->genereer((isset($_GET['item']) ? $_GET['item'] : 'provincie'));
-//print_r( $out );
+print_r( $out );
 print '</pre>';
 ?>
