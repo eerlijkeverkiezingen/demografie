@@ -1,6 +1,7 @@
 { "form":"topologie",
   "action":"/topologie.php",
   "method":"POST",
+  "multiple":"true",
   "items":[
 	{"type":"group", "items":[
 		{"name":"titel-van-lichaam", "type":"select", "required":"yes", "options":<datalist:titel-van-lichaam>},

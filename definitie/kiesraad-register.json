@@ -1,0 +1,39 @@
+{ "form":"kiesraad-register",
+  "action":"/kiesraad-register.php",
+  "method":"POST",
+  "multiple":"true",
+  "items":[
+	{"name":"naam", "type":"text", "required":"true", "prefix":"Naam"},
+	{"name":"adres","type":"set","multiple":"true","items":[
+			{"name":"type","type":"select","options":<datalist:adres-type> },
+			{"name":"straat","title":"Street"},
+			{"name":"postcode","title":"Postcode"},
+			{"name":"plaatsnaam","title":"City","list":"plaatsnamen"},
+			{"name":"land","list":"country","title":"Country","placeholder":"NL - Nederland","value":"NL - Nederland"}
+		], "prefix":"Adres"},
+	{"name":"tel", "type":"phone", "placeholder":"+31 (0) ", "multiple":"true", "prefix":"Telefoon"},
+	{"name":"fax", "type":"phone", "placeholder":"+31 (0) ", "multiple":"true", "prefix":"Fax"},
+	{"name":"website", "type":"url", "placeholder":"http://www.", "multiple":"true", "prefix":"Website"},
+	{"name":"email", "type":"email", "placeholder":"post@website.nl", "multiple":"true", "prefix":"Email adres"},
+	{"type":"group","items":[
+		{"name":"statutair", "type":"text", "prefix":"Statutaire naam"},
+		{"name":"zetel", "type":"text", "list":"plaatsnamen", "prefix":"te"}
+	]},
+	{"name":"gemachtigde", "type":"text", "prefix":"Gemachtigde"},
+	{"name":"plaatsvervanger", "type":"text", "prefix":"Plv. gemachtigde"},
+	"---",
+	{"id":"submit", "type":"submit", "class":"submit-button", "value":"Verwerken"}
+  ],
+  "keys": [
+	{"type":"primary key","items":["naam"],"required":"true"},
+	{"type":"unique","items":["website"]},
+	{"type":"unique","items":["email"]},
+	{"type":"unique","items":["statutair"]}
+  ],
+  "datalist": [
+	{"id":"plaatsnamen","options":<datalist:plaatsnaam>},
+	{"id":"country", "options":<datalist:land>}
+  ],
+  "text": {"en":[],"fy":[]},
+  "default-language":"nl"
+}
