@@ -29,7 +29,7 @@
 		]},
 		"---",
 		{"name":"uitslag","type":"set","class":"spreadsheet","multiple":"true","items":[
-			{"name":"stemmen","type":"number","required":"true"}
+			{"name":"stemmen","type":"number","placeholder":"0","required":"true"}
 		], "conditional":
 			{
 			"type=referendum":{"items":[
@@ -45,7 +45,7 @@
 				{"name":"burgemeester","type":"number","max":"1"}
 			]},
 			"/titel-van-lichaam=provincie":{"items":[
-				{"name":"statenlid","type":"number"}
+				{"name":"statenlid","type":"number"},
 				{"name":"gedeputeerde","type":"number"},
 				{"name":"commissaris","type":"number","max":"1"}
 			]},

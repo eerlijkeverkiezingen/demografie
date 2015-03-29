@@ -1,11 +1,16 @@
 [
+	"steunfractielid",
 	"raadslid",
-	"fractievolger",
 	"wethouder",
 	"burgemeester",
+	"algemeen-bestuurlid",
+	"heemraad",
+	"dijkgraaf",
+	"statenlid",
 	"gedeputeerde",
-	"commissaris van de koning",
+	"commissaris",
 	"kamerlid",
 	"staatsecretaris",
-	"minister"
+	"minister",
+	"europarlementari&euml;r"
 ]
