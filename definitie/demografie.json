@@ -29,21 +29,42 @@
 		]},
 		"---",
 		{"name":"uitslag","type":"set","class":"spreadsheet","multiple":"true","items":[
-			{"name":"partij","list":"partijen"},
-			{"name":"stemmen","type":"value"},
-			{"name":"raadslid","type":"value","rule":"conditional"},
-			{"name":"fractievolger","type":"value","rule":"conditional"},
-			{"name":"wethouder","type":"value","rule":"conditional"},
-			{"name":"burgemeester","type":"value","rule":"conditional","max":"1"},
-			{"name":"gedeputeerde","type":"value","rule":"conditional"},
-			{"name":"kamerlid","type":"value","rule":"conditional"},
-			{"name":"staatsecretaris","type":"value","rule":"conditional"},
-			{"name":"minister","type":"value","rule":"conditional"},
-			{"name":"coalitie","type":"checkbox","value":"yes","rule":"conditional"}
-		]},
+			{"name":"stemmen","type":"number","required":"true"}
+		], "conditional":
+			{
+			"type=referendum":{"items":[
+				{"name":"optie","type":"text","required":"true"}
+			]},
+			"type!=referendum":{"items":[
+				{"name":"partij","list":"partijen","required":"true"}
+			]},
+			"/titel-van-lichaam=gemeente":{"items":[
+				{"name":"raadslid","type":"number","max":"55"},
+				{"name":"fractievolger","type":"number"},
+				{"name":"wethouder","type":"number"},
+				{"name":"burgemeester","type":"number","max":"1"}
+			]},
+			"/titel-van-lichaam=provincie":{"items":[
+				{"name":"statenlid","type":"number"}
+				{"name":"gedeputeerde","type":"number"},
+				{"name":"commissaris","type":"number","max":"1"}
+			]},
+			"/titel-van-lichaam=staten-generaal":{"items":[
+				{"name":"kamerlid","type":"value","max":"150"},
+				{"name":"staatsecretaris","type":"value"},
+				{"name":"minister","type":"value"}
+			]},
+			"/titel-van-lichaam==type":{"items":[
+				{"name":"coalitie","type":"checkbox","value":"yes"}
+			]},
+			"/titel-van-lichaam=staten-generaal":{"items":[
+				{"name":"coalitie","type":"checkbox","value":"yes"}
+			]}
+			}
+		},
 		"---",
 		{"name":"personeel", "multiple":"true", "type":"group", "items":[
-			{"name":"aantal","type":"number","placeholder":"0","derivable":"SUM(uitslag[][%rol])", "conditional":{"raadslid":{"max":"45", "min":"9", "step":"2"},"kamerlid":{"min":"75","max":"150","step":"75"}, "burgemeester":{"max":"1"} }, "min":"0"},
+			{"name":"aantal","type":"number","placeholder":"0","derivable":"SUM(uitslag[][%rol])", "conditional":{"rol=raadslid":{"max":"45", "min":"9", "step":"2"},"rol=kamerlid":{"min":"75","max":"150","step":"75"}, "rol=burgemeester":{"max":"1"} }, "min":"0"},
 			{"name":"rol","list":"rollen"},
 			" krijgen elk ",
 			{"name":"bedrag","type":"valuta","field-prefix":"&euro;","step":"0.01", "min":"0", "placeholder":"0,00"},
@@ -59,11 +80,9 @@
 	{"type":"unique","items":["website"]},
 	{"type":"unique","items":["email"]},
 	{"type":"unique","items":["[][datum]","[][type]","[][noemer]"],"range":"verkiezing","required":"true"},
-	{"type":"unique","items":["[][partij]"],"range":"verkiezing[][uitslag]","required":"true"},
-	{"type":"unique","items":["[][rol]","[][interval]","[][interval]","[][interval]","[][type]"],"range":"verkiezing[][personeel]","required":"true"}
-  ],
-  "condition": [
-	{"type":"hide","when":"verkiezing[][type=tweede-kamer]","items":["verkiezing[][noemer]","verkiezing[][uitslag][][raadsleden]","verkiezing[][uitslag][][fractievolgers]","verkiezing[][uitslag][][wethouders]","verkiezing[][uitslag][][coalitie]","verkiezing[][raadslid]","verkiezing[][fractievolger]","verkiezing[][wethouder]"]}
+	{"type":"unique","items":["[][partij]"],"range":"verkiezing[][uitslag]"},
+	{"type":"unique","items":["[][optie]"],"range":"verkiezing[][uitslag]"},
+	{"type":"unique","items":["[][rol]","[][interval]","[][type]"],"range":"verkiezing[][personeel]","required":"true"}
   ],
   "datalist": [
 	{"id":"rollen", "options":<datalist:rol>},
