@@ -4,14 +4,15 @@
 		"naam": "Appingedam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "9622",
 				"stemmen": {
-					"uitgebracht": "4771",
+					"geldig": "4771",
 					"ongeldig": "8",
-					"blanco": "16"
+					"blanco": "16",
+					"uitgebracht": 4795
 				},
 				"uitslag": [
 					{
@@ -99,14 +100,15 @@
 		"naam": "Bedum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "8175",
 				"stemmen": {
-					"uitgebracht": "5079",
+					"geldig": "5079",
 					"ongeldig": "12",
-					"blanco": "17"
+					"blanco": "17",
+					"uitgebracht": 5108
 				},
 				"uitslag": [
 					{
@@ -194,14 +196,15 @@
 		"naam": "Bellingwedde",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "7291",
 				"stemmen": {
-					"uitgebracht": "3919",
+					"geldig": "3919",
 					"ongeldig": "15",
-					"blanco": "10"
+					"blanco": "10",
+					"uitgebracht": 3944
 				},
 				"uitslag": [
 					{
@@ -289,14 +292,15 @@
 		"naam": "Ten Boer",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "5675",
 				"stemmen": {
-					"uitgebracht": "3522",
+					"geldig": "3522",
 					"ongeldig": "20",
-					"blanco": "7"
+					"blanco": "7",
+					"uitgebracht": 3549
 				},
 				"uitslag": [
 					{
@@ -384,14 +388,15 @@
 		"naam": "Delfzijl",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "20120",
 				"stemmen": {
-					"uitgebracht": "9321",
+					"geldig": "9321",
 					"ongeldig": "28",
-					"blanco": "34"
+					"blanco": "34",
+					"uitgebracht": 9383
 				},
 				"uitslag": [
 					{
@@ -479,14 +484,15 @@
 		"naam": "Groningen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "157808",
 				"stemmen": {
-					"uitgebracht": "81418",
+					"geldig": "81418",
 					"ongeldig": "209",
-					"blanco": "399"
+					"blanco": "399",
+					"uitgebracht": 82026
 				},
 				"uitslag": [
 					{
@@ -574,14 +580,15 @@
 		"naam": "Grootegast",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "9203",
 				"stemmen": {
-					"uitgebracht": "4734",
+					"geldig": "4734",
 					"ongeldig": "16",
-					"blanco": "13"
+					"blanco": "13",
+					"uitgebracht": 4763
 				},
 				"uitslag": [
 					{
@@ -669,14 +676,15 @@
 		"naam": "Haren",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "14665",
 				"stemmen": {
-					"uitgebracht": "9964",
+					"geldig": "9964",
 					"ongeldig": "26",
-					"blanco": "23"
+					"blanco": "23",
+					"uitgebracht": 10013
 				},
 				"uitslag": [
 					{
@@ -764,14 +772,15 @@
 		"naam": "Hoogezand-Sappemeer",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "26900",
 				"stemmen": {
-					"uitgebracht": "12499",
+					"geldig": "12499",
 					"ongeldig": "41",
-					"blanco": "31"
+					"blanco": "31",
+					"uitgebracht": 12571
 				},
 				"uitslag": [
 					{
@@ -859,14 +868,15 @@
 		"naam": "Leek",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "14990",
 				"stemmen": {
-					"uitgebracht": "8135",
+					"geldig": "8135",
 					"ongeldig": "22",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 8179
 				},
 				"uitslag": [
 					{
@@ -954,14 +964,15 @@
 		"naam": "Loppersum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "7980",
 				"stemmen": {
-					"uitgebracht": "4936",
+					"geldig": "4936",
 					"ongeldig": "10",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 4965
 				},
 				"uitslag": [
 					{
@@ -1049,14 +1060,15 @@
 		"naam": "Marum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "7961",
 				"stemmen": {
-					"uitgebracht": "3996",
+					"geldig": "3996",
 					"ongeldig": "10",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 4021
 				},
 				"uitslag": [
 					{
@@ -1144,14 +1156,15 @@
 		"naam": "Stadskanaal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "25819",
 				"stemmen": {
-					"uitgebracht": "12511",
+					"geldig": "12511",
 					"ongeldig": "38",
-					"blanco": "40"
+					"blanco": "40",
+					"uitgebracht": 12589
 				},
 				"uitslag": [
 					{
@@ -1239,14 +1252,15 @@
 		"naam": "Slochteren",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "12133",
 				"stemmen": {
-					"uitgebracht": "6776",
+					"geldig": "6776",
 					"ongeldig": "22",
-					"blanco": "21"
+					"blanco": "21",
+					"uitgebracht": 6819
 				},
 				"uitslag": [
 					{
@@ -1334,14 +1348,15 @@
 		"naam": "Veendam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "21871",
 				"stemmen": {
-					"uitgebracht": "10580",
+					"geldig": "10580",
 					"ongeldig": "28",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 10630
 				},
 				"uitslag": [
 					{
@@ -1429,14 +1444,15 @@
 		"naam": "Vlagtwedde",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "12725",
 				"stemmen": {
-					"uitgebracht": "6275",
+					"geldig": "6275",
 					"ongeldig": "13",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 6306
 				},
 				"uitslag": [
 					{
@@ -1524,14 +1540,15 @@
 		"naam": "Winsum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "10542",
 				"stemmen": {
-					"uitgebracht": "6571",
+					"geldig": "6571",
 					"ongeldig": "14",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 6611
 				},
 				"uitslag": [
 					{
@@ -1619,14 +1636,15 @@
 		"naam": "Zuidhorn",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "14031",
 				"stemmen": {
-					"uitgebracht": "9013",
+					"geldig": "9013",
 					"ongeldig": "20",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 9055
 				},
 				"uitslag": [
 					{
@@ -1714,14 +1732,15 @@
 		"naam": "Pekela",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "9837",
 				"stemmen": {
-					"uitgebracht": "4681",
+					"geldig": "4681",
 					"ongeldig": "17",
-					"blanco": "25"
+					"blanco": "25",
+					"uitgebracht": 4723
 				},
 				"uitslag": [
 					{
@@ -1809,14 +1828,15 @@
 		"naam": "Eemsmond",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "12427",
 				"stemmen": {
-					"uitgebracht": "7596",
+					"geldig": "7596",
 					"ongeldig": "19",
-					"blanco": "13"
+					"blanco": "13",
+					"uitgebracht": 7628
 				},
 				"uitslag": [
 					{
@@ -1904,14 +1924,15 @@
 		"naam": "De Marne",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "8076",
 				"stemmen": {
-					"uitgebracht": "4512",
+					"geldig": "4512",
 					"ongeldig": "18",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 4545
 				},
 				"uitslag": [
 					{
@@ -1999,14 +2020,15 @@
 		"naam": "Oldambt",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "30898",
 				"stemmen": {
-					"uitgebracht": "15581",
+					"geldig": "15581",
 					"ongeldig": "68",
-					"blanco": "47"
+					"blanco": "47",
+					"uitgebracht": 15696
 				},
 				"uitslag": [
 					{
@@ -2094,14 +2116,15 @@
 		"naam": "Menterwolde",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Groningen",
 				"kiesgerechtigden": "9740",
 				"stemmen": {
-					"uitgebracht": "5089",
+					"geldig": "5089",
 					"ongeldig": "7",
-					"blanco": "11"
+					"blanco": "11",
+					"uitgebracht": 5107
 				},
 				"uitslag": [
 					{
@@ -2189,14 +2212,15 @@
 		"naam": "Dongeradeel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "18554",
 				"stemmen": {
-					"uitgebracht": "9686",
+					"geldig": "9686",
 					"ongeldig": "28",
-					"blanco": "21"
+					"blanco": "21",
+					"uitgebracht": 9735
 				},
 				"uitslag": [
 					{
@@ -2264,14 +2288,15 @@
 		"naam": "Achtkarspelen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "21489",
 				"stemmen": {
-					"uitgebracht": "10885",
+					"geldig": "10885",
 					"ongeldig": "25",
-					"blanco": "21"
+					"blanco": "21",
+					"uitgebracht": 10931
 				},
 				"uitslag": [
 					{
@@ -2339,14 +2364,15 @@
 		"naam": "Ameland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "2734",
 				"stemmen": {
-					"uitgebracht": "1398",
+					"geldig": "1398",
 					"ongeldig": "2",
-					"blanco": "5"
+					"blanco": "5",
+					"uitgebracht": 1405
 				},
 				"uitslag": [
 					{
@@ -2414,14 +2440,15 @@
 		"naam": "het Bildt",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "7893",
 				"stemmen": {
-					"uitgebracht": "4092",
+					"geldig": "4092",
 					"ongeldig": "8",
-					"blanco": "4"
+					"blanco": "4",
+					"uitgebracht": 4104
 				},
 				"uitslag": [
 					{
@@ -2489,14 +2516,15 @@
 		"naam": "Franekeradeel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "15729",
 				"stemmen": {
-					"uitgebracht": "8262",
+					"geldig": "8262",
 					"ongeldig": "19",
-					"blanco": "28"
+					"blanco": "28",
+					"uitgebracht": 8309
 				},
 				"uitslag": [
 					{
@@ -2564,14 +2592,15 @@
 		"naam": "Harlingen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "12238",
 				"stemmen": {
-					"uitgebracht": "6138",
+					"geldig": "6138",
 					"ongeldig": "18",
-					"blanco": "25"
+					"blanco": "25",
+					"uitgebracht": 6181
 				},
 				"uitslag": [
 					{
@@ -2639,14 +2668,15 @@
 		"naam": "Heerenveen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "38894",
 				"stemmen": {
-					"uitgebracht": "20342",
+					"geldig": "20342",
 					"ongeldig": "51",
-					"blanco": "61"
+					"blanco": "61",
+					"uitgebracht": 20454
 				},
 				"uitslag": [
 					{
@@ -2714,14 +2744,15 @@
 		"naam": "Kollumerland en Nieuwkruisland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "9954",
 				"stemmen": {
-					"uitgebracht": "5187",
+					"geldig": "5187",
 					"ongeldig": "20",
-					"blanco": "10"
+					"blanco": "10",
+					"uitgebracht": 5217
 				},
 				"uitslag": [
 					{
@@ -2789,14 +2820,15 @@
 		"naam": "Leeuwarden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "84434",
 				"stemmen": {
-					"uitgebracht": "41562",
+					"geldig": "41562",
 					"ongeldig": "134",
-					"blanco": "138"
+					"blanco": "138",
+					"uitgebracht": 41834
 				},
 				"uitslag": [
 					{
@@ -2864,14 +2896,15 @@
 		"naam": "Leeuwarderadeel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "8076",
 				"stemmen": {
-					"uitgebracht": "4664",
+					"geldig": "4664",
 					"ongeldig": "9",
-					"blanco": "6"
+					"blanco": "6",
+					"uitgebracht": 4679
 				},
 				"uitslag": [
 					{
@@ -2939,14 +2972,15 @@
 		"naam": "Ooststellingwerf",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "20339",
 				"stemmen": {
-					"uitgebracht": "10616",
+					"geldig": "10616",
 					"ongeldig": "26",
-					"blanco": "27"
+					"blanco": "27",
+					"uitgebracht": 10669
 				},
 				"uitslag": [
 					{
@@ -3014,14 +3048,15 @@
 		"naam": "Opsterland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "23108",
 				"stemmen": {
-					"uitgebracht": "12618",
+					"geldig": "12618",
 					"ongeldig": "31",
-					"blanco": "30"
+					"blanco": "30",
+					"uitgebracht": 12679
 				},
 				"uitslag": [
 					{
@@ -3089,14 +3124,15 @@
 		"naam": "Schiermonnikoog",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "744",
 				"stemmen": {
-					"uitgebracht": "422",
+					"geldig": "422",
 					"ongeldig": "0",
-					"blanco": "0"
+					"blanco": "0",
+					"uitgebracht": 422
 				},
 				"uitslag": [
 					{
@@ -3164,14 +3200,15 @@
 		"naam": "Smallingerland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "42823",
 				"stemmen": {
-					"uitgebracht": "22912",
+					"geldig": "22912",
 					"ongeldig": "56",
-					"blanco": "58"
+					"blanco": "58",
+					"uitgebracht": 23026
 				},
 				"uitslag": [
 					{
@@ -3239,14 +3276,15 @@
 		"naam": "Terschelling",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "3962",
 				"stemmen": {
-					"uitgebracht": "1996",
+					"geldig": "1996",
 					"ongeldig": "5",
-					"blanco": "10"
+					"blanco": "10",
+					"uitgebracht": 2011
 				},
 				"uitslag": [
 					{
@@ -3314,14 +3352,15 @@
 		"naam": "Vlieland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "878",
 				"stemmen": {
-					"uitgebracht": "396",
+					"geldig": "396",
 					"ongeldig": "2",
-					"blanco": "4"
+					"blanco": "4",
+					"uitgebracht": 402
 				},
 				"uitslag": [
 					{
@@ -3389,14 +3428,15 @@
 		"naam": "Weststellingwerf",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "20253",
 				"stemmen": {
-					"uitgebracht": "9983",
+					"geldig": "9983",
 					"ongeldig": "22",
-					"blanco": "35"
+					"blanco": "35",
+					"uitgebracht": 10040
 				},
 				"uitslag": [
 					{
@@ -3464,14 +3504,15 @@
 		"naam": "Littenseradiel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "8290",
 				"stemmen": {
-					"uitgebracht": "5041",
+					"geldig": "5041",
 					"ongeldig": "5",
-					"blanco": "7"
+					"blanco": "7",
+					"uitgebracht": 5053
 				},
 				"uitslag": [
 					{
@@ -3539,14 +3580,15 @@
 		"naam": "Tytsjerksteradiel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "24612",
 				"stemmen": {
-					"uitgebracht": "14006",
+					"geldig": "14006",
 					"ongeldig": "29",
-					"blanco": "39"
+					"blanco": "39",
+					"uitgebracht": 14074
 				},
 				"uitslag": [
 					{
@@ -3614,14 +3656,15 @@
 		"naam": "Ferwerderadiel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "6659",
 				"stemmen": {
-					"uitgebracht": "3499",
+					"geldig": "3499",
 					"ongeldig": "4",
-					"blanco": "10"
+					"blanco": "10",
+					"uitgebracht": 3513
 				},
 				"uitslag": [
 					{
@@ -3689,14 +3732,15 @@
 		"naam": "Dantumadiel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "14887",
 				"stemmen": {
-					"uitgebracht": "7940",
+					"geldig": "7940",
 					"ongeldig": "17",
-					"blanco": "13"
+					"blanco": "13",
+					"uitgebracht": 7970
 				},
 				"uitslag": [
 					{
@@ -3764,14 +3808,15 @@
 		"naam": null,
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "64789",
 				"stemmen": {
-					"uitgebracht": "35509",
+					"geldig": "35509",
 					"ongeldig": "85",
-					"blanco": "100"
+					"blanco": "100",
+					"uitgebracht": 35694
 				},
 				"uitslag": [
 					{
@@ -3839,14 +3884,15 @@
 		"naam": "Menameradiel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "10505",
 				"stemmen": {
-					"uitgebracht": "6037",
+					"geldig": "6037",
 					"ongeldig": "15",
-					"blanco": "24"
+					"blanco": "24",
+					"uitgebracht": 6076
 				},
 				"uitslag": [
 					{
@@ -3914,14 +3960,15 @@
 		"naam": "De Friese Meren",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Friesland",
 				"kiesgerechtigden": "39471",
 				"stemmen": {
-					"uitgebracht": "21414",
+					"geldig": "21414",
 					"ongeldig": "29",
-					"blanco": "57"
+					"blanco": "57",
+					"uitgebracht": 21500
 				},
 				"uitslag": [
 					{
@@ -3989,14 +4036,15 @@
 		"naam": "Assen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "51347",
 				"stemmen": {
-					"uitgebracht": "25858",
+					"geldig": "25858",
 					"ongeldig": "69",
-					"blanco": "69"
+					"blanco": "69",
+					"uitgebracht": 25996
 				},
 				"uitslag": [
 					{
@@ -4056,14 +4104,15 @@
 		"naam": "Coevorden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "27902",
 				"stemmen": {
-					"uitgebracht": "14019",
+					"geldig": "14019",
 					"ongeldig": "40",
-					"blanco": "31"
+					"blanco": "31",
+					"uitgebracht": 14090
 				},
 				"uitslag": [
 					{
@@ -4123,14 +4172,15 @@
 		"naam": "Emmen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "84738",
 				"stemmen": {
-					"uitgebracht": "37391",
+					"geldig": "37391",
 					"ongeldig": "135",
-					"blanco": "95"
+					"blanco": "95",
+					"uitgebracht": 37621
 				},
 				"uitslag": [
 					{
@@ -4190,14 +4240,15 @@
 		"naam": "Hoogeveen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "42432",
 				"stemmen": {
-					"uitgebracht": "19943",
+					"geldig": "19943",
 					"ongeldig": "39",
-					"blanco": "51"
+					"blanco": "51",
+					"uitgebracht": 20033
 				},
 				"uitslag": [
 					{
@@ -4257,14 +4308,15 @@
 		"naam": "Meppel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "25226",
 				"stemmen": {
-					"uitgebracht": "12981",
+					"geldig": "12981",
 					"ongeldig": "37",
-					"blanco": "49"
+					"blanco": "49",
+					"uitgebracht": 13067
 				},
 				"uitslag": [
 					{
@@ -4324,14 +4376,15 @@
 		"naam": "Aa en Hunze",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "20252",
 				"stemmen": {
-					"uitgebracht": "11553",
+					"geldig": "11553",
 					"ongeldig": "25",
-					"blanco": "43"
+					"blanco": "43",
+					"uitgebracht": 11621
 				},
 				"uitslag": [
 					{
@@ -4391,14 +4444,15 @@
 		"naam": "Borger-Odoorn",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "20532",
 				"stemmen": {
-					"uitgebracht": "10659",
+					"geldig": "10659",
 					"ongeldig": "41",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 10726
 				},
 				"uitslag": [
 					{
@@ -4458,14 +4512,15 @@
 		"naam": "De Wolden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "18667",
 				"stemmen": {
-					"uitgebracht": "10485",
+					"geldig": "10485",
 					"ongeldig": "30",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 10533
 				},
 				"uitslag": [
 					{
@@ -4525,14 +4580,15 @@
 		"naam": "Noordenveld",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "24752",
 				"stemmen": {
-					"uitgebracht": "13678",
+					"geldig": "13678",
 					"ongeldig": "27",
-					"blanco": "47"
+					"blanco": "47",
+					"uitgebracht": 13752
 				},
 				"uitslag": [
 					{
@@ -4592,14 +4648,15 @@
 		"naam": "Westerveld",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "15306",
 				"stemmen": {
-					"uitgebracht": "8644",
+					"geldig": "8644",
 					"ongeldig": "11",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 8681
 				},
 				"uitslag": [
 					{
@@ -4659,14 +4716,15 @@
 		"naam": "Tynaarlo",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "25398",
 				"stemmen": {
-					"uitgebracht": "14671",
+					"geldig": "14671",
 					"ongeldig": "17",
-					"blanco": "56"
+					"blanco": "56",
+					"uitgebracht": 14744
 				},
 				"uitslag": [
 					{
@@ -4726,14 +4784,15 @@
 		"naam": "Midden-Drenthe",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Drenthe",
 				"kiesgerechtigden": "26313",
 				"stemmen": {
-					"uitgebracht": "14200",
+					"geldig": "14200",
 					"ongeldig": "35",
-					"blanco": "34"
+					"blanco": "34",
+					"uitgebracht": 14269
 				},
 				"uitslag": [
 					{
@@ -4793,14 +4852,15 @@
 		"naam": "Almelo",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "54122",
 				"stemmen": {
-					"uitgebracht": "22194",
+					"geldig": "22194",
 					"ongeldig": "96",
-					"blanco": "58"
+					"blanco": "58",
+					"uitgebracht": 22348
 				},
 				"uitslag": [
 					{
@@ -4860,14 +4920,15 @@
 		"naam": "Borne",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "16987",
 				"stemmen": {
-					"uitgebracht": "8840",
+					"geldig": "8840",
 					"ongeldig": "21",
-					"blanco": "14"
+					"blanco": "14",
+					"uitgebracht": 8875
 				},
 				"uitslag": [
 					{
@@ -4927,14 +4988,15 @@
 		"naam": "Dalfsen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "21260",
 				"stemmen": {
-					"uitgebracht": "11840",
+					"geldig": "11840",
 					"ongeldig": "21",
-					"blanco": "29"
+					"blanco": "29",
+					"uitgebracht": 11890
 				},
 				"uitslag": [
 					{
@@ -4994,14 +5056,15 @@
 		"naam": "Deventer",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "73786",
 				"stemmen": {
-					"uitgebracht": "35935",
+					"geldig": "35935",
 					"ongeldig": "99",
-					"blanco": "105"
+					"blanco": "105",
+					"uitgebracht": 36139
 				},
 				"uitslag": [
 					{
@@ -5061,14 +5124,15 @@
 		"naam": "Enschede",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "119873",
 				"stemmen": {
-					"uitgebracht": "48740",
+					"geldig": "48740",
 					"ongeldig": "130",
-					"blanco": "172"
+					"blanco": "172",
+					"uitgebracht": 49042
 				},
 				"uitslag": [
 					{
@@ -5128,14 +5192,15 @@
 		"naam": "Haaksbergen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "18955",
 				"stemmen": {
-					"uitgebracht": "9119",
+					"geldig": "9119",
 					"ongeldig": "22",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 9160
 				},
 				"uitslag": [
 					{
@@ -5195,14 +5260,15 @@
 		"naam": "Hardenberg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "45361",
 				"stemmen": {
-					"uitgebracht": "23086",
+					"geldig": "23086",
 					"ongeldig": "51",
-					"blanco": "38"
+					"blanco": "38",
+					"uitgebracht": 23175
 				},
 				"uitslag": [
 					{
@@ -5262,14 +5328,15 @@
 		"naam": "Hellendoorn",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "27735",
 				"stemmen": {
-					"uitgebracht": "14172",
+					"geldig": "14172",
 					"ongeldig": "25",
-					"blanco": "25"
+					"blanco": "25",
+					"uitgebracht": 14222
 				},
 				"uitslag": [
 					{
@@ -5329,14 +5396,15 @@
 		"naam": "Hengelo",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "62145",
 				"stemmen": {
-					"uitgebracht": "29455",
+					"geldig": "29455",
 					"ongeldig": "109",
-					"blanco": "85"
+					"blanco": "85",
+					"uitgebracht": 29649
 				},
 				"uitslag": [
 					{
@@ -5396,14 +5464,15 @@
 		"naam": "Kampen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "38106",
 				"stemmen": {
-					"uitgebracht": "21368",
+					"geldig": "21368",
 					"ongeldig": "36",
-					"blanco": "46"
+					"blanco": "46",
+					"uitgebracht": 21450
 				},
 				"uitslag": [
 					{
@@ -5463,14 +5532,15 @@
 		"naam": "Losser",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "17605",
 				"stemmen": {
-					"uitgebracht": "7992",
+					"geldig": "7992",
 					"ongeldig": "17",
-					"blanco": "17"
+					"blanco": "17",
+					"uitgebracht": 8026
 				},
 				"uitslag": [
 					{
@@ -5530,14 +5600,15 @@
 		"naam": "Oldenzaal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "24730",
 				"stemmen": {
-					"uitgebracht": "11698",
+					"geldig": "11698",
 					"ongeldig": "26",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 11746
 				},
 				"uitslag": [
 					{
@@ -5597,14 +5668,15 @@
 		"naam": "Ommen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "13405",
 				"stemmen": {
-					"uitgebracht": "7603",
+					"geldig": "7603",
 					"ongeldig": "12",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 7633
 				},
 				"uitslag": [
 					{
@@ -5664,14 +5736,15 @@
 		"naam": "Raalte",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "28613",
 				"stemmen": {
-					"uitgebracht": "14690",
+					"geldig": "14690",
 					"ongeldig": "47",
-					"blanco": "40"
+					"blanco": "40",
+					"uitgebracht": 14777
 				},
 				"uitslag": [
 					{
@@ -5731,14 +5804,15 @@
 		"naam": "Staphorst",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "11599",
 				"stemmen": {
-					"uitgebracht": "7482",
+					"geldig": "7482",
 					"ongeldig": "10",
-					"blanco": "9"
+					"blanco": "9",
+					"uitgebracht": 7501
 				},
 				"uitslag": [
 					{
@@ -5798,14 +5872,15 @@
 		"naam": "Tubbergen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "16058",
 				"stemmen": {
-					"uitgebracht": "7651",
+					"geldig": "7651",
 					"ongeldig": "38",
-					"blanco": "9"
+					"blanco": "9",
+					"uitgebracht": 7698
 				},
 				"uitslag": [
 					{
@@ -5865,14 +5940,15 @@
 		"naam": "Wierden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "18362",
 				"stemmen": {
-					"uitgebracht": "10163",
+					"geldig": "10163",
 					"ongeldig": "21",
-					"blanco": "8"
+					"blanco": "8",
+					"uitgebracht": 10192
 				},
 				"uitslag": [
 					{
@@ -5932,14 +6008,15 @@
 		"naam": "Zwolle",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "94374",
 				"stemmen": {
-					"uitgebracht": "48527",
+					"geldig": "48527",
 					"ongeldig": "76",
-					"blanco": "164"
+					"blanco": "164",
+					"uitgebracht": 48767
 				},
 				"uitslag": [
 					{
@@ -5999,14 +6076,15 @@
 		"naam": "Twenterand",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "25611",
 				"stemmen": {
-					"uitgebracht": "12419",
+					"geldig": "12419",
 					"ongeldig": "26",
-					"blanco": "36"
+					"blanco": "36",
+					"uitgebracht": 12481
 				},
 				"uitslag": [
 					{
@@ -6066,14 +6144,15 @@
 		"naam": "Steenwijkerland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "33674",
 				"stemmen": {
-					"uitgebracht": "17577",
+					"geldig": "17577",
 					"ongeldig": "39",
-					"blanco": "49"
+					"blanco": "49",
+					"uitgebracht": 17665
 				},
 				"uitslag": [
 					{
@@ -6133,14 +6212,15 @@
 		"naam": "Hof van Twente",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "27370",
 				"stemmen": {
-					"uitgebracht": "15426",
+					"geldig": "15426",
 					"ongeldig": "45",
-					"blanco": "37"
+					"blanco": "37",
+					"uitgebracht": 15508
 				},
 				"uitslag": [
 					{
@@ -6200,14 +6280,15 @@
 		"naam": "Rijssen-Holten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "27851",
 				"stemmen": {
-					"uitgebracht": "16934",
+					"geldig": "16934",
 					"ongeldig": "47",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 17003
 				},
 				"uitslag": [
 					{
@@ -6267,14 +6348,15 @@
 		"naam": "Olst-Wijhe",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "13890",
 				"stemmen": {
-					"uitgebracht": "7195",
+					"geldig": "7195",
 					"ongeldig": "19",
-					"blanco": "17"
+					"blanco": "17",
+					"uitgebracht": 7231
 				},
 				"uitslag": [
 					{
@@ -6334,14 +6416,15 @@
 		"naam": "Dinkelland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "20010",
 				"stemmen": {
-					"uitgebracht": "10385",
+					"geldig": "10385",
 					"ongeldig": "26",
-					"blanco": "11"
+					"blanco": "11",
+					"uitgebracht": 10422
 				},
 				"uitslag": [
 					{
@@ -6401,14 +6484,15 @@
 		"naam": "Zwartewaterland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Overijssel",
 				"kiesgerechtigden": "15977",
 				"stemmen": {
-					"uitgebracht": "9281",
+					"geldig": "9281",
 					"ongeldig": "12",
-					"blanco": "8"
+					"blanco": "8",
+					"uitgebracht": 9301
 				},
 				"uitslag": [
 					{
@@ -6468,14 +6552,15 @@
 		"naam": "Almere",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Flevoland",
 				"kiesgerechtigden": "140902",
 				"stemmen": {
-					"uitgebracht": "56327",
+					"geldig": "56327",
 					"ongeldig": "205",
-					"blanco": "188"
+					"blanco": "188",
+					"uitgebracht": 56720
 				},
 				"uitslag": [
 					{
@@ -6539,14 +6624,15 @@
 		"naam": "Zeewolde",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Flevoland",
 				"kiesgerechtigden": "15242",
 				"stemmen": {
-					"uitgebracht": "8414",
+					"geldig": "8414",
 					"ongeldig": "21",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 8450
 				},
 				"uitslag": [
 					{
@@ -6610,14 +6696,15 @@
 		"naam": "Noordoostpolder",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Flevoland",
 				"kiesgerechtigden": "33486",
 				"stemmen": {
-					"uitgebracht": "17817",
+					"geldig": "17817",
 					"ongeldig": "62",
-					"blanco": "40"
+					"blanco": "40",
+					"uitgebracht": 17919
 				},
 				"uitslag": [
 					{
@@ -6681,14 +6768,15 @@
 		"naam": "Urk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Flevoland",
 				"kiesgerechtigden": "12749",
 				"stemmen": {
-					"uitgebracht": "7016",
+					"geldig": "7016",
 					"ongeldig": "11",
-					"blanco": "8"
+					"blanco": "8",
+					"uitgebracht": 7035
 				},
 				"uitslag": [
 					{
@@ -6752,14 +6840,15 @@
 		"naam": "Dronten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Flevoland",
 				"kiesgerechtigden": "29809",
 				"stemmen": {
-					"uitgebracht": "15952",
+					"geldig": "15952",
 					"ongeldig": "31",
-					"blanco": "36"
+					"blanco": "36",
+					"uitgebracht": 16019
 				},
 				"uitslag": [
 					{
@@ -6823,14 +6912,15 @@
 		"naam": "Lelystad",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Flevoland",
 				"kiesgerechtigden": "56169",
 				"stemmen": {
-					"uitgebracht": "25218",
+					"geldig": "25218",
 					"ongeldig": "76",
-					"blanco": "80"
+					"blanco": "80",
+					"uitgebracht": 25374
 				},
 				"uitslag": [
 					{
@@ -6894,14 +6984,15 @@
 		"naam": "Rijnwaarden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "8594",
 				"stemmen": {
-					"uitgebracht": "3445",
+					"geldig": "3445",
 					"ongeldig": "8",
-					"blanco": "14"
+					"blanco": "14",
+					"uitgebracht": 3467
 				},
 				"uitslag": [
 					{
@@ -6989,14 +7080,15 @@
 		"naam": "Aalten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "20812",
 				"stemmen": {
-					"uitgebracht": "10029",
+					"geldig": "10029",
 					"ongeldig": "20",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 10075
 				},
 				"uitslag": [
 					{
@@ -7084,14 +7176,15 @@
 		"naam": "Apeldoorn",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "123174",
 				"stemmen": {
-					"uitgebracht": "59598",
+					"geldig": "59598",
 					"ongeldig": "146",
-					"blanco": "153"
+					"blanco": "153",
+					"uitgebracht": 59897
 				},
 				"uitslag": [
 					{
@@ -7179,14 +7272,15 @@
 		"naam": "Arnhem",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "115799",
 				"stemmen": {
-					"uitgebracht": "48101",
+					"geldig": "48101",
 					"ongeldig": "168",
-					"blanco": "135"
+					"blanco": "135",
+					"uitgebracht": 48404
 				},
 				"uitslag": [
 					{
@@ -7274,14 +7368,15 @@
 		"naam": "Barneveld",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "39693",
 				"stemmen": {
-					"uitgebracht": "23962",
+					"geldig": "23962",
 					"ongeldig": "59",
-					"blanco": "45"
+					"blanco": "45",
+					"uitgebracht": 24066
 				},
 				"uitslag": [
 					{
@@ -7369,14 +7464,15 @@
 		"naam": "Beuningen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "19827",
 				"stemmen": {
-					"uitgebracht": "8764",
+					"geldig": "8764",
 					"ongeldig": "19",
-					"blanco": "23"
+					"blanco": "23",
+					"uitgebracht": 8806
 				},
 				"uitslag": [
 					{
@@ -7460,14 +7556,15 @@
 		"naam": "Brummen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "16681",
 				"stemmen": {
-					"uitgebracht": "7853",
+					"geldig": "7853",
 					"ongeldig": "11",
-					"blanco": "17"
+					"blanco": "17",
+					"uitgebracht": 7881
 				},
 				"uitslag": [
 					{
@@ -7555,14 +7652,15 @@
 		"naam": "Buren",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "20191",
 				"stemmen": {
-					"uitgebracht": "10060",
+					"geldig": "10060",
 					"ongeldig": "24",
-					"blanco": "23"
+					"blanco": "23",
+					"uitgebracht": 10107
 				},
 				"uitslag": [
 					{
@@ -7646,14 +7744,15 @@
 		"naam": "Culemborg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "20637",
 				"stemmen": {
-					"uitgebracht": "10122",
+					"geldig": "10122",
 					"ongeldig": "22",
-					"blanco": "39"
+					"blanco": "39",
+					"uitgebracht": 10183
 				},
 				"uitslag": [
 					{
@@ -7737,14 +7836,15 @@
 		"naam": "Doesburg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "8936",
 				"stemmen": {
-					"uitgebracht": "4375",
+					"geldig": "4375",
 					"ongeldig": "9",
-					"blanco": "6"
+					"blanco": "6",
+					"uitgebracht": 4390
 				},
 				"uitslag": [
 					{
@@ -7832,14 +7932,15 @@
 		"naam": "Doetinchem",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "44014",
 				"stemmen": {
-					"uitgebracht": "20516",
+					"geldig": "20516",
 					"ongeldig": "40",
-					"blanco": "47"
+					"blanco": "47",
+					"uitgebracht": 20603
 				},
 				"uitslag": [
 					{
@@ -7927,14 +8028,15 @@
 		"naam": "Druten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "14062",
 				"stemmen": {
-					"uitgebracht": "6143",
+					"geldig": "6143",
 					"ongeldig": "20",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 6182
 				},
 				"uitslag": [
 					{
@@ -8018,14 +8120,15 @@
 		"naam": "Duiven",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "19625",
 				"stemmen": {
-					"uitgebracht": "8997",
+					"geldig": "8997",
 					"ongeldig": "27",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 9043
 				},
 				"uitslag": [
 					{
@@ -8113,14 +8216,15 @@
 		"naam": "Ede",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "83965",
 				"stemmen": {
-					"uitgebracht": "46548",
+					"geldig": "46548",
 					"ongeldig": "116",
-					"blanco": "119"
+					"blanco": "119",
+					"uitgebracht": 46783
 				},
 				"uitslag": [
 					{
@@ -8208,14 +8312,15 @@
 		"naam": "Elburg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "17178",
 				"stemmen": {
-					"uitgebracht": "9542",
+					"geldig": "9542",
 					"ongeldig": "25",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 9582
 				},
 				"uitslag": [
 					{
@@ -8303,14 +8408,15 @@
 		"naam": "Epe",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "25503",
 				"stemmen": {
-					"uitgebracht": "12714",
+					"geldig": "12714",
 					"ongeldig": "33",
-					"blanco": "28"
+					"blanco": "28",
+					"uitgebracht": 12775
 				},
 				"uitslag": [
 					{
@@ -8398,14 +8504,15 @@
 		"naam": "Ermelo",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "20590",
 				"stemmen": {
-					"uitgebracht": "11478",
+					"geldig": "11478",
 					"ongeldig": "28",
-					"blanco": "25"
+					"blanco": "25",
+					"uitgebracht": 11531
 				},
 				"uitslag": [
 					{
@@ -8493,14 +8600,15 @@
 		"naam": "Geldermalsen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "19802",
 				"stemmen": {
-					"uitgebracht": "11056",
+					"geldig": "11056",
 					"ongeldig": "27",
-					"blanco": "27"
+					"blanco": "27",
+					"uitgebracht": 11110
 				},
 				"uitslag": [
 					{
@@ -8584,14 +8692,15 @@
 		"naam": "Groesbeek",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "27474",
 				"stemmen": {
-					"uitgebracht": "13486",
+					"geldig": "13486",
 					"ongeldig": "34",
-					"blanco": "49"
+					"blanco": "49",
+					"uitgebracht": 13569
 				},
 				"uitslag": [
 					{
@@ -8675,14 +8784,15 @@
 		"naam": "Harderwijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "34241",
 				"stemmen": {
-					"uitgebracht": "16570",
+					"geldig": "16570",
 					"ongeldig": "40",
-					"blanco": "43"
+					"blanco": "43",
+					"uitgebracht": 16653
 				},
 				"uitslag": [
 					{
@@ -8770,14 +8880,15 @@
 		"naam": "Hattem",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "9121",
 				"stemmen": {
-					"uitgebracht": "5065",
+					"geldig": "5065",
 					"ongeldig": "7",
-					"blanco": "10"
+					"blanco": "10",
+					"uitgebracht": 5082
 				},
 				"uitslag": [
 					{
@@ -8865,14 +8976,15 @@
 		"naam": "Heerde",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "14595",
 				"stemmen": {
-					"uitgebracht": "7586",
+					"geldig": "7586",
 					"ongeldig": "12",
-					"blanco": "16"
+					"blanco": "16",
+					"uitgebracht": 7614
 				},
 				"uitslag": [
 					{
@@ -8960,14 +9072,15 @@
 		"naam": "Heumen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "12679",
 				"stemmen": {
-					"uitgebracht": "6924",
+					"geldig": "6924",
 					"ongeldig": "14",
-					"blanco": "16"
+					"blanco": "16",
+					"uitgebracht": 6954
 				},
 				"uitslag": [
 					{
@@ -9051,14 +9164,15 @@
 		"naam": "Lochem",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "26481",
 				"stemmen": {
-					"uitgebracht": "14707",
+					"geldig": "14707",
 					"ongeldig": "29",
-					"blanco": "44"
+					"blanco": "44",
+					"uitgebracht": 14780
 				},
 				"uitslag": [
 					{
@@ -9146,14 +9260,15 @@
 		"naam": "Maasdriel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "18265",
 				"stemmen": {
-					"uitgebracht": "8686",
+					"geldig": "8686",
 					"ongeldig": "17",
-					"blanco": "35"
+					"blanco": "35",
+					"uitgebracht": 8738
 				},
 				"uitslag": [
 					{
@@ -9237,14 +9352,15 @@
 		"naam": "Nijkerk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "30536",
 				"stemmen": {
-					"uitgebracht": "16368",
+					"geldig": "16368",
 					"ongeldig": "40",
-					"blanco": "30"
+					"blanco": "30",
+					"uitgebracht": 16438
 				},
 				"uitslag": [
 					{
@@ -9332,14 +9448,15 @@
 		"naam": "Nijmegen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "133943",
 				"stemmen": {
-					"uitgebracht": "63831",
+					"geldig": "63831",
 					"ongeldig": "179",
-					"blanco": "266"
+					"blanco": "266",
+					"uitgebracht": 64276
 				},
 				"uitslag": [
 					{
@@ -9423,14 +9540,15 @@
 		"naam": "Oldebroek",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "17556",
 				"stemmen": {
-					"uitgebracht": "8736",
+					"geldig": "8736",
 					"ongeldig": "28",
-					"blanco": "17"
+					"blanco": "17",
+					"uitgebracht": 8781
 				},
 				"uitslag": [
 					{
@@ -9518,14 +9636,15 @@
 		"naam": "Putten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "18419",
 				"stemmen": {
-					"uitgebracht": "10502",
+					"geldig": "10502",
 					"ongeldig": "20",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 10544
 				},
 				"uitslag": [
 					{
@@ -9613,14 +9732,15 @@
 		"naam": "Renkum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "24825",
 				"stemmen": {
-					"uitgebracht": "14086",
+					"geldig": "14086",
 					"ongeldig": "32",
-					"blanco": "32"
+					"blanco": "32",
+					"uitgebracht": 14150
 				},
 				"uitslag": [
 					{
@@ -9708,14 +9828,15 @@
 		"naam": "Rheden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "34885",
 				"stemmen": {
-					"uitgebracht": "17920",
+					"geldig": "17920",
 					"ongeldig": "51",
-					"blanco": "53"
+					"blanco": "53",
+					"uitgebracht": 18024
 				},
 				"uitslag": [
 					{
@@ -9803,14 +9924,15 @@
 		"naam": "Rozendaal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "1154",
 				"stemmen": {
-					"uitgebracht": "867",
+					"geldig": "867",
 					"ongeldig": "2",
-					"blanco": "0"
+					"blanco": "0",
+					"uitgebracht": 869
 				},
 				"uitslag": [
 					{
@@ -9898,14 +10020,15 @@
 		"naam": "Scherpenzeel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "7034",
 				"stemmen": {
-					"uitgebracht": "4303",
+					"geldig": "4303",
 					"ongeldig": "6",
-					"blanco": "12"
+					"blanco": "12",
+					"uitgebracht": 4321
 				},
 				"uitslag": [
 					{
@@ -9993,14 +10116,15 @@
 		"naam": "Tiel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "30974",
 				"stemmen": {
-					"uitgebracht": "12754",
+					"geldig": "12754",
 					"ongeldig": "30",
-					"blanco": "35"
+					"blanco": "35",
+					"uitgebracht": 12819
 				},
 				"uitslag": [
 					{
@@ -10084,14 +10208,15 @@
 		"naam": "Voorst",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "18977",
 				"stemmen": {
-					"uitgebracht": "9722",
+					"geldig": "9722",
 					"ongeldig": "22",
-					"blanco": "21"
+					"blanco": "21",
+					"uitgebracht": 9765
 				},
 				"uitslag": [
 					{
@@ -10179,14 +10304,15 @@
 		"naam": "Wageningen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "27629",
 				"stemmen": {
-					"uitgebracht": "16081",
+					"geldig": "16081",
 					"ongeldig": "35",
-					"blanco": "46"
+					"blanco": "46",
+					"uitgebracht": 16162
 				},
 				"uitslag": [
 					{
@@ -10274,14 +10400,15 @@
 		"naam": "Westervoort",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "11873",
 				"stemmen": {
-					"uitgebracht": "5357",
+					"geldig": "5357",
 					"ongeldig": "10",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 5385
 				},
 				"uitslag": [
 					{
@@ -10369,14 +10496,15 @@
 		"naam": "Winterswijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "22293",
 				"stemmen": {
-					"uitgebracht": "10566",
+					"geldig": "10566",
 					"ongeldig": "20",
-					"blanco": "36"
+					"blanco": "36",
+					"uitgebracht": 10622
 				},
 				"uitslag": [
 					{
@@ -10464,14 +10592,15 @@
 		"naam": "Wijchen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "31619",
 				"stemmen": {
-					"uitgebracht": "14806",
+					"geldig": "14806",
 					"ongeldig": "32",
-					"blanco": "36"
+					"blanco": "36",
+					"uitgebracht": 14874
 				},
 				"uitslag": [
 					{
@@ -10555,14 +10684,15 @@
 		"naam": "Zaltbommel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "20064",
 				"stemmen": {
-					"uitgebracht": "10717",
+					"geldig": "10717",
 					"ongeldig": "32",
-					"blanco": "31"
+					"blanco": "31",
+					"uitgebracht": 10780
 				},
 				"uitslag": [
 					{
@@ -10646,14 +10776,15 @@
 		"naam": "Zevenaar",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "25707",
 				"stemmen": {
-					"uitgebracht": "11985",
+					"geldig": "11985",
 					"ongeldig": "30",
-					"blanco": "35"
+					"blanco": "35",
+					"uitgebracht": 12050
 				},
 				"uitslag": [
 					{
@@ -10741,14 +10872,15 @@
 		"naam": "Zutphen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "36083",
 				"stemmen": {
-					"uitgebracht": "17930",
+					"geldig": "17930",
 					"ongeldig": "55",
-					"blanco": "53"
+					"blanco": "53",
+					"uitgebracht": 18038
 				},
 				"uitslag": [
 					{
@@ -10836,14 +10968,15 @@
 		"naam": "Nunspeet",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "20299",
 				"stemmen": {
-					"uitgebracht": "12276",
+					"geldig": "12276",
 					"ongeldig": "16",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 12318
 				},
 				"uitslag": [
 					{
@@ -10931,14 +11064,15 @@
 		"naam": "Neerijnen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "9000",
 				"stemmen": {
-					"uitgebracht": "4790",
+					"geldig": "4790",
 					"ongeldig": "13",
-					"blanco": "7"
+					"blanco": "7",
+					"uitgebracht": 4810
 				},
 				"uitslag": [
 					{
@@ -11022,14 +11156,15 @@
 		"naam": "West Maas en Waal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "14633",
 				"stemmen": {
-					"uitgebracht": "7057",
+					"geldig": "7057",
 					"ongeldig": "19",
-					"blanco": "28"
+					"blanco": "28",
+					"uitgebracht": 7104
 				},
 				"uitslag": [
 					{
@@ -11113,14 +11248,15 @@
 		"naam": "Lingewaal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "8533",
 				"stemmen": {
-					"uitgebracht": "4388",
+					"geldig": "4388",
 					"ongeldig": "8",
-					"blanco": "6"
+					"blanco": "6",
+					"uitgebracht": 4402
 				},
 				"uitslag": [
 					{
@@ -11204,14 +11340,15 @@
 		"naam": "Oude IJsselstreek",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "30910",
 				"stemmen": {
-					"uitgebracht": "14358",
+					"geldig": "14358",
 					"ongeldig": "29",
-					"blanco": "51"
+					"blanco": "51",
+					"uitgebracht": 14438
 				},
 				"uitslag": [
 					{
@@ -11299,14 +11436,15 @@
 		"naam": "Oost Gelre",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "23024",
 				"stemmen": {
-					"uitgebracht": "10892",
+					"geldig": "10892",
 					"ongeldig": "23",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 10941
 				},
 				"uitslag": [
 					{
@@ -11394,14 +11532,15 @@
 		"naam": "Lingewaard",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "35405",
 				"stemmen": {
-					"uitgebracht": "15695",
+					"geldig": "15695",
 					"ongeldig": "38",
-					"blanco": "68"
+					"blanco": "68",
+					"uitgebracht": 15801
 				},
 				"uitslag": [
 					{
@@ -11489,14 +11628,15 @@
 		"naam": "Overbetuwe",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "35416",
 				"stemmen": {
-					"uitgebracht": "16923",
+					"geldig": "16923",
 					"ongeldig": "40",
-					"blanco": "37"
+					"blanco": "37",
+					"uitgebracht": 17000
 				},
 				"uitslag": [
 					{
@@ -11584,14 +11724,15 @@
 		"naam": "Neder-Betuwe",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "16604",
 				"stemmen": {
-					"uitgebracht": "9599",
+					"geldig": "9599",
 					"ongeldig": "19",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 9636
 				},
 				"uitslag": [
 					{
@@ -11675,14 +11816,15 @@
 		"naam": "Berkelland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "35035",
 				"stemmen": {
-					"uitgebracht": "18684",
+					"geldig": "18684",
 					"ongeldig": "46",
-					"blanco": "66"
+					"blanco": "66",
+					"uitgebracht": 18796
 				},
 				"uitslag": [
 					{
@@ -11770,14 +11912,15 @@
 		"naam": "Bronckhorst",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "29284",
 				"stemmen": {
-					"uitgebracht": "15282",
+					"geldig": "15282",
 					"ongeldig": "18",
-					"blanco": "25"
+					"blanco": "25",
+					"uitgebracht": 15325
 				},
 				"uitslag": [
 					{
@@ -11865,14 +12008,15 @@
 		"naam": "Montferland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Gelderland",
 				"kiesgerechtigden": "27924",
 				"stemmen": {
-					"uitgebracht": "12614",
+					"geldig": "12614",
 					"ongeldig": "33",
-					"blanco": "33"
+					"blanco": "33",
+					"uitgebracht": 12680
 				},
 				"uitslag": [
 					{
@@ -11960,14 +12104,15 @@
 		"naam": "Amersfoort",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "111747",
 				"stemmen": {
-					"uitgebracht": "57450",
+					"geldig": "57450",
 					"ongeldig": "130",
-					"blanco": "181"
+					"blanco": "181",
+					"uitgebracht": 57761
 				},
 				"uitslag": [
 					{
@@ -12039,14 +12184,15 @@
 		"naam": "Baarn",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "19019",
 				"stemmen": {
-					"uitgebracht": "10227",
+					"geldig": "10227",
 					"ongeldig": "23",
-					"blanco": "31"
+					"blanco": "31",
+					"uitgebracht": 10281
 				},
 				"uitslag": [
 					{
@@ -12118,14 +12264,15 @@
 		"naam": "De Bilt",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "32506",
 				"stemmen": {
-					"uitgebracht": "19803",
+					"geldig": "19803",
 					"ongeldig": "38",
-					"blanco": "46"
+					"blanco": "46",
+					"uitgebracht": 19887
 				},
 				"uitslag": [
 					{
@@ -12197,14 +12344,15 @@
 		"naam": "Bunnik",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "11230",
 				"stemmen": {
-					"uitgebracht": "7068",
+					"geldig": "7068",
 					"ongeldig": "15",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 7102
 				},
 				"uitslag": [
 					{
@@ -12276,14 +12424,15 @@
 		"naam": "Bunschoten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "15111",
 				"stemmen": {
-					"uitgebracht": "8205",
+					"geldig": "8205",
 					"ongeldig": "31",
-					"blanco": "13"
+					"blanco": "13",
+					"uitgebracht": 8249
 				},
 				"uitslag": [
 					{
@@ -12355,14 +12504,15 @@
 		"naam": "Eemnes",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "6696",
 				"stemmen": {
-					"uitgebracht": "3874",
+					"geldig": "3874",
 					"ongeldig": "12",
-					"blanco": "14"
+					"blanco": "14",
+					"uitgebracht": 3900
 				},
 				"uitslag": [
 					{
@@ -12434,14 +12584,15 @@
 		"naam": "Houten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "35780",
 				"stemmen": {
-					"uitgebracht": "19567",
+					"geldig": "19567",
 					"ongeldig": "38",
-					"blanco": "60"
+					"blanco": "60",
+					"uitgebracht": 19665
 				},
 				"uitslag": [
 					{
@@ -12513,14 +12664,15 @@
 		"naam": "Leusden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "22489",
 				"stemmen": {
-					"uitgebracht": "13380",
+					"geldig": "13380",
 					"ongeldig": "29",
-					"blanco": "32"
+					"blanco": "32",
+					"uitgebracht": 13441
 				},
 				"uitslag": [
 					{
@@ -12592,14 +12744,15 @@
 		"naam": "Lopik",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "10577",
 				"stemmen": {
-					"uitgebracht": "5776",
+					"geldig": "5776",
 					"ongeldig": "14",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 5808
 				},
 				"uitslag": [
 					{
@@ -12671,14 +12824,15 @@
 		"naam": "Montfoort",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "10194",
 				"stemmen": {
-					"uitgebracht": "5972",
+					"geldig": "5972",
 					"ongeldig": "4",
-					"blanco": "14"
+					"blanco": "14",
+					"uitgebracht": 5990
 				},
 				"uitslag": [
 					{
@@ -12750,14 +12904,15 @@
 		"naam": "Renswoude",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "3590",
 				"stemmen": {
-					"uitgebracht": "2148",
+					"geldig": "2148",
 					"ongeldig": "1",
-					"blanco": "1"
+					"blanco": "1",
+					"uitgebracht": 2150
 				},
 				"uitslag": [
 					{
@@ -12829,14 +12984,15 @@
 		"naam": "Rhenen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "14650",
 				"stemmen": {
-					"uitgebracht": "8099",
+					"geldig": "8099",
 					"ongeldig": "18",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 8143
 				},
 				"uitslag": [
 					{
@@ -12908,14 +13064,15 @@
 		"naam": "Soest",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "34603",
 				"stemmen": {
-					"uitgebracht": "18854",
+					"geldig": "18854",
 					"ongeldig": "49",
-					"blanco": "41"
+					"blanco": "41",
+					"uitgebracht": 18944
 				},
 				"uitslag": [
 					{
@@ -12987,14 +13144,15 @@
 		"naam": "Utrecht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "246274",
 				"stemmen": {
-					"uitgebracht": "119414",
+					"geldig": "119414",
 					"ongeldig": "315",
-					"blanco": "504"
+					"blanco": "504",
+					"uitgebracht": 120233
 				},
 				"uitslag": [
 					{
@@ -13066,14 +13224,15 @@
 		"naam": "Veenendaal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "47283",
 				"stemmen": {
-					"uitgebracht": "24807",
+					"geldig": "24807",
 					"ongeldig": "57",
-					"blanco": "64"
+					"blanco": "64",
+					"uitgebracht": 24928
 				},
 				"uitslag": [
 					{
@@ -13145,14 +13304,15 @@
 		"naam": "Woudenberg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "9243",
 				"stemmen": {
-					"uitgebracht": "5749",
+					"geldig": "5749",
 					"ongeldig": "15",
-					"blanco": "9"
+					"blanco": "9",
+					"uitgebracht": 5773
 				},
 				"uitslag": [
 					{
@@ -13224,14 +13384,15 @@
 		"naam": "Wijk bij Duurstede",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "18023",
 				"stemmen": {
-					"uitgebracht": "9251",
+					"geldig": "9251",
 					"ongeldig": "17",
-					"blanco": "34"
+					"blanco": "34",
+					"uitgebracht": 9302
 				},
 				"uitslag": [
 					{
@@ -13303,14 +13464,15 @@
 		"naam": "IJsselstein",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "25361",
 				"stemmen": {
-					"uitgebracht": "11719",
+					"geldig": "11719",
 					"ongeldig": "32",
-					"blanco": "33"
+					"blanco": "33",
+					"uitgebracht": 11784
 				},
 				"uitslag": [
 					{
@@ -13382,14 +13544,15 @@
 		"naam": "Zeist",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "46091",
 				"stemmen": {
-					"uitgebracht": "24949",
+					"geldig": "24949",
 					"ongeldig": "60",
-					"blanco": "79"
+					"blanco": "79",
+					"uitgebracht": 25088
 				},
 				"uitslag": [
 					{
@@ -13461,14 +13624,15 @@
 		"naam": "Nieuwegein",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "47432",
 				"stemmen": {
-					"uitgebracht": "20991",
+					"geldig": "20991",
 					"ongeldig": "51",
-					"blanco": "77"
+					"blanco": "77",
+					"uitgebracht": 21119
 				},
 				"uitslag": [
 					{
@@ -13540,14 +13704,15 @@
 		"naam": "Oudewater",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "7617",
 				"stemmen": {
-					"uitgebracht": "3891",
+					"geldig": "3891",
 					"ongeldig": "11",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 3917
 				},
 				"uitslag": [
 					{
@@ -13619,14 +13784,15 @@
 		"naam": "Vianen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "15083",
 				"stemmen": {
-					"uitgebracht": "7223",
+					"geldig": "7223",
 					"ongeldig": "25",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 7266
 				},
 				"uitslag": [
 					{
@@ -13698,14 +13864,15 @@
 		"naam": "Woerden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "38078",
 				"stemmen": {
-					"uitgebracht": "21262",
+					"geldig": "21262",
 					"ongeldig": "37",
-					"blanco": "61"
+					"blanco": "61",
+					"uitgebracht": 21360
 				},
 				"uitslag": [
 					{
@@ -13777,14 +13944,15 @@
 		"naam": "De Ronde Venen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "32575",
 				"stemmen": {
-					"uitgebracht": "17941",
+					"geldig": "17941",
 					"ongeldig": "44",
-					"blanco": "56"
+					"blanco": "56",
+					"uitgebracht": 18041
 				},
 				"uitslag": [
 					{
@@ -13856,14 +14024,15 @@
 		"naam": "Utrechtse Heuvelrug",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "37195",
 				"stemmen": {
-					"uitgebracht": "22209",
+					"geldig": "22209",
 					"ongeldig": "50",
-					"blanco": "55"
+					"blanco": "55",
+					"uitgebracht": 22314
 				},
 				"uitslag": [
 					{
@@ -13935,14 +14104,15 @@
 		"naam": "Stichtse Vecht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Utrecht",
 				"kiesgerechtigden": "48765",
 				"stemmen": {
-					"uitgebracht": "25593",
+					"geldig": "25593",
 					"ongeldig": "68",
-					"blanco": "72"
+					"blanco": "72",
+					"uitgebracht": 25733
 				},
 				"uitslag": [
 					{
@@ -14014,14 +14184,15 @@
 		"naam": "Aalsmeer",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "22501",
 				"stemmen": {
-					"uitgebracht": "11451",
+					"geldig": "11451",
 					"ongeldig": "21",
-					"blanco": "29"
+					"blanco": "29",
+					"uitgebracht": 11501
 				},
 				"uitslag": [
 					{
@@ -14093,14 +14264,15 @@
 		"naam": "Alkmaar",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "82035",
 				"stemmen": {
-					"uitgebracht": "38706",
+					"geldig": "38706",
 					"ongeldig": "102",
-					"blanco": "125"
+					"blanco": "125",
+					"uitgebracht": 38933
 				},
 				"uitslag": [
 					{
@@ -14172,14 +14344,15 @@
 		"naam": "Amstelveen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "59659",
 				"stemmen": {
-					"uitgebracht": "31664",
+					"geldig": "31664",
 					"ongeldig": "108",
-					"blanco": "100"
+					"blanco": "100",
+					"uitgebracht": 31872
 				},
 				"uitslag": [
 					{
@@ -14251,14 +14424,15 @@
 		"naam": "Amsterdam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "578940",
 				"stemmen": {
-					"uitgebracht": "250023",
+					"geldig": "250023",
 					"ongeldig": "1208",
-					"blanco": "1073"
+					"blanco": "1073",
+					"uitgebracht": 252304
 				},
 				"uitslag": [
 					{
@@ -14330,14 +14504,15 @@
 		"naam": "Beemster",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "7026",
 				"stemmen": {
-					"uitgebracht": "4046",
+					"geldig": "4046",
 					"ongeldig": "12",
-					"blanco": "12"
+					"blanco": "12",
+					"uitgebracht": 4070
 				},
 				"uitslag": [
 					{
@@ -14409,14 +14584,15 @@
 		"naam": "Bergen (NH)",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "24022",
 				"stemmen": {
-					"uitgebracht": "13359",
+					"geldig": "13359",
 					"ongeldig": "26",
-					"blanco": "39"
+					"blanco": "39",
+					"uitgebracht": 13424
 				},
 				"uitslag": [
 					{
@@ -14488,14 +14664,15 @@
 		"naam": "Beverwijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "29588",
 				"stemmen": {
-					"uitgebracht": "11794",
+					"geldig": "11794",
 					"ongeldig": "39",
-					"blanco": "44"
+					"blanco": "44",
+					"uitgebracht": 11877
 				},
 				"uitslag": [
 					{
@@ -14567,14 +14744,15 @@
 		"naam": "Blaricum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "7250",
 				"stemmen": {
-					"uitgebracht": "4329",
+					"geldig": "4329",
 					"ongeldig": "6",
-					"blanco": "8"
+					"blanco": "8",
+					"uitgebracht": 4343
 				},
 				"uitslag": [
 					{
@@ -14646,14 +14824,15 @@
 		"naam": "Bloemendaal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "16774",
 				"stemmen": {
-					"uitgebracht": "10799",
+					"geldig": "10799",
 					"ongeldig": "31",
-					"blanco": "34"
+					"blanco": "34",
+					"uitgebracht": 10864
 				},
 				"uitslag": [
 					{
@@ -14725,14 +14904,15 @@
 		"naam": "Bussum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "24275",
 				"stemmen": {
-					"uitgebracht": "12961",
+					"geldig": "12961",
 					"ongeldig": "38",
-					"blanco": "44"
+					"blanco": "44",
+					"uitgebracht": 13043
 				},
 				"uitslag": [
 					{
@@ -14804,14 +14984,15 @@
 		"naam": "Castricum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "27170",
 				"stemmen": {
-					"uitgebracht": "15438",
+					"geldig": "15438",
 					"ongeldig": "41",
-					"blanco": "30"
+					"blanco": "30",
+					"uitgebracht": 15509
 				},
 				"uitslag": [
 					{
@@ -14883,14 +15064,15 @@
 		"naam": "Diemen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "19677",
 				"stemmen": {
-					"uitgebracht": "8811",
+					"geldig": "8811",
 					"ongeldig": "43",
-					"blanco": "34"
+					"blanco": "34",
+					"uitgebracht": 8888
 				},
 				"uitslag": [
 					{
@@ -14962,14 +15144,15 @@
 		"naam": "Edam-Volendam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "22400",
 				"stemmen": {
-					"uitgebracht": "10767",
+					"geldig": "10767",
 					"ongeldig": "33",
-					"blanco": "34"
+					"blanco": "34",
+					"uitgebracht": 10834
 				},
 				"uitslag": [
 					{
@@ -15041,14 +15224,15 @@
 		"naam": "Enkhuizen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "14127",
 				"stemmen": {
-					"uitgebracht": "6699",
+					"geldig": "6699",
 					"ongeldig": "26",
-					"blanco": "23"
+					"blanco": "23",
+					"uitgebracht": 6748
 				},
 				"uitslag": [
 					{
@@ -15120,14 +15304,15 @@
 		"naam": "Haarlem",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "116366",
 				"stemmen": {
-					"uitgebracht": "56118",
+					"geldig": "56118",
 					"ongeldig": "177",
-					"blanco": "219"
+					"blanco": "219",
+					"uitgebracht": 56514
 				},
 				"uitslag": [
 					{
@@ -15199,14 +15384,15 @@
 		"naam": "Haarlemmerliede en Spaarnwoude",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "4304",
 				"stemmen": {
-					"uitgebracht": "2181",
+					"geldig": "2181",
 					"ongeldig": "4",
-					"blanco": "6"
+					"blanco": "6",
+					"uitgebracht": 2191
 				},
 				"uitslag": [
 					{
@@ -15278,14 +15464,15 @@
 		"naam": "Haarlemmermeer",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "105522",
 				"stemmen": {
-					"uitgebracht": "48092",
+					"geldig": "48092",
 					"ongeldig": "135",
-					"blanco": "113"
+					"blanco": "113",
+					"uitgebracht": 48340
 				},
 				"uitslag": [
 					{
@@ -15357,14 +15544,15 @@
 		"naam": "Heemskerk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "30334",
 				"stemmen": {
-					"uitgebracht": "13946",
+					"geldig": "13946",
 					"ongeldig": "48",
-					"blanco": "44"
+					"blanco": "44",
+					"uitgebracht": 14038
 				},
 				"uitslag": [
 					{
@@ -15436,14 +15624,15 @@
 		"naam": "Heemstede",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "20125",
 				"stemmen": {
-					"uitgebracht": "12283",
+					"geldig": "12283",
 					"ongeldig": "38",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 12343
 				},
 				"uitslag": [
 					{
@@ -15515,14 +15704,15 @@
 		"naam": "Heerhugowaard",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "39657",
 				"stemmen": {
-					"uitgebracht": "17935",
+					"geldig": "17935",
 					"ongeldig": "49",
-					"blanco": "55"
+					"blanco": "55",
+					"uitgebracht": 18039
 				},
 				"uitslag": [
 					{
@@ -15594,14 +15784,15 @@
 		"naam": "Heiloo",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "17734",
 				"stemmen": {
-					"uitgebracht": "10243",
+					"geldig": "10243",
 					"ongeldig": "22",
-					"blanco": "24"
+					"blanco": "24",
+					"uitgebracht": 10289
 				},
 				"uitslag": [
 					{
@@ -15673,14 +15864,15 @@
 		"naam": "Den Helder",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "44715",
 				"stemmen": {
-					"uitgebracht": "17336",
+					"geldig": "17336",
 					"ongeldig": "55",
-					"blanco": "48"
+					"blanco": "48",
+					"uitgebracht": 17439
 				},
 				"uitslag": [
 					{
@@ -15752,14 +15944,15 @@
 		"naam": "Hilversum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "64587",
 				"stemmen": {
-					"uitgebracht": "32430",
+					"geldig": "32430",
 					"ongeldig": "120",
-					"blanco": "104"
+					"blanco": "104",
+					"uitgebracht": 32654
 				},
 				"uitslag": [
 					{
@@ -15831,14 +16024,15 @@
 		"naam": "Hoorn",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "54127",
 				"stemmen": {
-					"uitgebracht": "23781",
+					"geldig": "23781",
 					"ongeldig": "76",
-					"blanco": "114"
+					"blanco": "114",
+					"uitgebracht": 23971
 				},
 				"uitslag": [
 					{
@@ -15910,14 +16104,15 @@
 		"naam": "Huizen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "31941",
 				"stemmen": {
-					"uitgebracht": "16931",
+					"geldig": "16931",
 					"ongeldig": "28",
-					"blanco": "40"
+					"blanco": "40",
+					"uitgebracht": 16999
 				},
 				"uitslag": [
 					{
@@ -15989,14 +16184,15 @@
 		"naam": "Landsmeer",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "8417",
 				"stemmen": {
-					"uitgebracht": "4761",
+					"geldig": "4761",
 					"ongeldig": "17",
-					"blanco": "7"
+					"blanco": "7",
+					"uitgebracht": 4785
 				},
 				"uitslag": [
 					{
@@ -16068,14 +16264,15 @@
 		"naam": "Langedijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "20834",
 				"stemmen": {
-					"uitgebracht": "10312",
+					"geldig": "10312",
 					"ongeldig": "20",
-					"blanco": "30"
+					"blanco": "30",
+					"uitgebracht": 10362
 				},
 				"uitslag": [
 					{
@@ -16147,14 +16344,15 @@
 		"naam": "Laren",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "8518",
 				"stemmen": {
-					"uitgebracht": "5006",
+					"geldig": "5006",
 					"ongeldig": "23",
-					"blanco": "10"
+					"blanco": "10",
+					"uitgebracht": 5039
 				},
 				"uitslag": [
 					{
@@ -16226,14 +16424,15 @@
 		"naam": "Medemblik",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "32913",
 				"stemmen": {
-					"uitgebracht": "15747",
+					"geldig": "15747",
 					"ongeldig": "45",
-					"blanco": "43"
+					"blanco": "43",
+					"uitgebracht": 15835
 				},
 				"uitslag": [
 					{
@@ -16305,14 +16504,15 @@
 		"naam": "Muiden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "4764",
 				"stemmen": {
-					"uitgebracht": "2730",
+					"geldig": "2730",
 					"ongeldig": "7",
-					"blanco": "8"
+					"blanco": "8",
+					"uitgebracht": 2745
 				},
 				"uitslag": [
 					{
@@ -16384,14 +16584,15 @@
 		"naam": "Naarden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "12487",
 				"stemmen": {
-					"uitgebracht": "7411",
+					"geldig": "7411",
 					"ongeldig": "25",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 7455
 				},
 				"uitslag": [
 					{
@@ -16463,14 +16664,15 @@
 		"naam": "Oostzaan",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "7196",
 				"stemmen": {
-					"uitgebracht": "3644",
+					"geldig": "3644",
 					"ongeldig": "13",
-					"blanco": "7"
+					"blanco": "7",
+					"uitgebracht": 3664
 				},
 				"uitslag": [
 					{
@@ -16542,14 +16744,15 @@
 		"naam": "Opmeer",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "8684",
 				"stemmen": {
-					"uitgebracht": "4087",
+					"geldig": "4087",
 					"ongeldig": "8",
-					"blanco": "9"
+					"blanco": "9",
+					"uitgebracht": 4104
 				},
 				"uitslag": [
 					{
@@ -16621,14 +16824,15 @@
 		"naam": "Ouder-Amstel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "9874",
 				"stemmen": {
-					"uitgebracht": "5649",
+					"geldig": "5649",
 					"ongeldig": "15",
-					"blanco": "11"
+					"blanco": "11",
+					"uitgebracht": 5675
 				},
 				"uitslag": [
 					{
@@ -16700,14 +16904,15 @@
 		"naam": "Purmerend",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "61973",
 				"stemmen": {
-					"uitgebracht": "26143",
+					"geldig": "26143",
 					"ongeldig": "117",
-					"blanco": "88"
+					"blanco": "88",
+					"uitgebracht": 26348
 				},
 				"uitslag": [
 					{
@@ -16779,14 +16984,15 @@
 		"naam": "Schagen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "36703",
 				"stemmen": {
-					"uitgebracht": "17291",
+					"geldig": "17291",
 					"ongeldig": "50",
-					"blanco": "39"
+					"blanco": "39",
+					"uitgebracht": 17380
 				},
 				"uitslag": [
 					{
@@ -16858,14 +17064,15 @@
 		"naam": "Texel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "10694",
 				"stemmen": {
-					"uitgebracht": "5905",
+					"geldig": "5905",
 					"ongeldig": "11",
-					"blanco": "40"
+					"blanco": "40",
+					"uitgebracht": 5956
 				},
 				"uitslag": [
 					{
@@ -16937,14 +17144,15 @@
 		"naam": "Uitgeest",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "10112",
 				"stemmen": {
-					"uitgebracht": "5342",
+					"geldig": "5342",
 					"ongeldig": "8",
-					"blanco": "11"
+					"blanco": "11",
+					"uitgebracht": 5361
 				},
 				"uitslag": [
 					{
@@ -17016,14 +17224,15 @@
 		"naam": "Uithoorn",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "21241",
 				"stemmen": {
-					"uitgebracht": "10660",
+					"geldig": "10660",
 					"ongeldig": "30",
-					"blanco": "24"
+					"blanco": "24",
+					"uitgebracht": 10714
 				},
 				"uitslag": [
 					{
@@ -17095,14 +17304,15 @@
 		"naam": "Velsen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "51532",
 				"stemmen": {
-					"uitgebracht": "23243",
+					"geldig": "23243",
 					"ongeldig": "76",
-					"blanco": "84"
+					"blanco": "84",
+					"uitgebracht": 23403
 				},
 				"uitslag": [
 					{
@@ -17174,14 +17384,15 @@
 		"naam": "Weesp",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "13917",
 				"stemmen": {
-					"uitgebracht": "6847",
+					"geldig": "6847",
 					"ongeldig": "28",
-					"blanco": "20"
+					"blanco": "20",
+					"uitgebracht": 6895
 				},
 				"uitslag": [
 					{
@@ -17253,14 +17464,15 @@
 		"naam": "Zandvoort",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "13268",
 				"stemmen": {
-					"uitgebracht": "6283",
+					"geldig": "6283",
 					"ongeldig": "22",
-					"blanco": "21"
+					"blanco": "21",
+					"uitgebracht": 6326
 				},
 				"uitslag": [
 					{
@@ -17332,14 +17544,15 @@
 		"naam": "Zeevang",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "4906",
 				"stemmen": {
-					"uitgebracht": "2844",
+					"geldig": "2844",
 					"ongeldig": "4",
-					"blanco": "5"
+					"blanco": "5",
+					"uitgebracht": 2853
 				},
 				"uitslag": [
 					{
@@ -17411,14 +17624,15 @@
 		"naam": "Zaanstad",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "112793",
 				"stemmen": {
-					"uitgebracht": "48380",
+					"geldig": "48380",
 					"ongeldig": "170",
-					"blanco": "148"
+					"blanco": "148",
+					"uitgebracht": 48698
 				},
 				"uitslag": [
 					{
@@ -17490,14 +17704,15 @@
 		"naam": "Drechterland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "14712",
 				"stemmen": {
-					"uitgebracht": "7432",
+					"geldig": "7432",
 					"ongeldig": "14",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 7464
 				},
 				"uitslag": [
 					{
@@ -17569,14 +17784,15 @@
 		"naam": "Stede Broec",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "16344",
 				"stemmen": {
-					"uitgebracht": "7428",
+					"geldig": "7428",
 					"ongeldig": "26",
-					"blanco": "32"
+					"blanco": "32",
+					"uitgebracht": 7486
 				},
 				"uitslag": [
 					{
@@ -17648,14 +17864,15 @@
 		"naam": "Waterland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "13427",
 				"stemmen": {
-					"uitgebracht": "7933",
+					"geldig": "7933",
 					"ongeldig": "26",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 7981
 				},
 				"uitslag": [
 					{
@@ -17727,14 +17944,15 @@
 		"naam": "Wormerland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "12338",
 				"stemmen": {
-					"uitgebracht": "6120",
+					"geldig": "6120",
 					"ongeldig": "20",
-					"blanco": "25"
+					"blanco": "25",
+					"uitgebracht": 6165
 				},
 				"uitslag": [
 					{
@@ -17806,14 +18024,15 @@
 		"naam": "Koggenland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "17099",
 				"stemmen": {
-					"uitgebracht": "8668",
+					"geldig": "8668",
 					"ongeldig": "25",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 8719
 				},
 				"uitslag": [
 					{
@@ -17885,14 +18104,15 @@
 		"naam": "Wijdemeren",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "18105",
 				"stemmen": {
-					"uitgebracht": "9778",
+					"geldig": "9778",
 					"ongeldig": "21",
-					"blanco": "16"
+					"blanco": "16",
+					"uitgebracht": 9815
 				},
 				"uitslag": [
 					{
@@ -17964,14 +18184,15 @@
 		"naam": "Hollands Kroon",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Holland",
 				"kiesgerechtigden": "37562",
 				"stemmen": {
-					"uitgebracht": "17404",
+					"geldig": "17404",
 					"ongeldig": "53",
-					"blanco": "43"
+					"blanco": "43",
+					"uitgebracht": 17500
 				},
 				"uitslag": [
 					{
@@ -18043,14 +18264,15 @@
 		"naam": "Alblasserdam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "14672",
 				"stemmen": {
-					"uitgebracht": "7724",
+					"geldig": "7724",
 					"ongeldig": "20",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 7759
 				},
 				"uitslag": [
 					{
@@ -18126,14 +18348,15 @@
 		"naam": "Alphen aan den Rijn",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "80273",
 				"stemmen": {
-					"uitgebracht": "40911",
+					"geldig": "40911",
 					"ongeldig": "98",
-					"blanco": "153"
+					"blanco": "153",
+					"uitgebracht": 41162
 				},
 				"uitslag": [
 					{
@@ -18205,14 +18428,15 @@
 		"naam": "Barendrecht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "35059",
 				"stemmen": {
-					"uitgebracht": "16407",
+					"geldig": "16407",
 					"ongeldig": "41",
-					"blanco": "57"
+					"blanco": "57",
+					"uitgebracht": 16505
 				},
 				"uitslag": [
 					{
@@ -18288,14 +18512,15 @@
 		"naam": "Brielle",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "13040",
 				"stemmen": {
-					"uitgebracht": "6112",
+					"geldig": "6112",
 					"ongeldig": "15",
-					"blanco": "27"
+					"blanco": "27",
+					"uitgebracht": 6154
 				},
 				"uitslag": [
 					{
@@ -18371,14 +18596,15 @@
 		"naam": "Capelle aan den IJssel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "50707",
 				"stemmen": {
-					"uitgebracht": "21741",
+					"geldig": "21741",
 					"ongeldig": "78",
-					"blanco": "93"
+					"blanco": "93",
+					"uitgebracht": 21912
 				},
 				"uitslag": [
 					{
@@ -18450,14 +18676,15 @@
 		"naam": "Delft",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "74581",
 				"stemmen": {
-					"uitgebracht": "37305",
+					"geldig": "37305",
 					"ongeldig": "118",
-					"blanco": "276"
+					"blanco": "276",
+					"uitgebracht": 37699
 				},
 				"uitslag": [
 					{
@@ -18533,14 +18760,15 @@
 		"naam": "Dordrecht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "89030",
 				"stemmen": {
-					"uitgebracht": "37722",
+					"geldig": "37722",
 					"ongeldig": "153",
-					"blanco": "140"
+					"blanco": "140",
+					"uitgebracht": 38015
 				},
 				"uitslag": [
 					{
@@ -18616,14 +18844,15 @@
 		"naam": "Gorinchem",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "26336",
 				"stemmen": {
-					"uitgebracht": "11539",
+					"geldig": "11539",
 					"ongeldig": "34",
-					"blanco": "44"
+					"blanco": "44",
+					"uitgebracht": 11617
 				},
 				"uitslag": [
 					{
@@ -18699,14 +18928,15 @@
 		"naam": "Gouda",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "53232",
 				"stemmen": {
-					"uitgebracht": "27278",
+					"geldig": "27278",
 					"ongeldig": "80",
-					"blanco": "94"
+					"blanco": "94",
+					"uitgebracht": 27452
 				},
 				"uitslag": [
 					{
@@ -18778,14 +19008,15 @@
 		"naam": "'s-Gravenhage",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "347089",
 				"stemmen": {
-					"uitgebracht": "140148",
+					"geldig": "140148",
 					"ongeldig": "602",
-					"blanco": "606"
+					"blanco": "606",
+					"uitgebracht": 141356
 				},
 				"uitslag": [
 					{
@@ -18853,14 +19084,15 @@
 		"naam": "Hardinxveld-Giessendam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "13358",
 				"stemmen": {
-					"uitgebracht": "7607",
+					"geldig": "7607",
 					"ongeldig": "14",
-					"blanco": "7"
+					"blanco": "7",
+					"uitgebracht": 7628
 				},
 				"uitslag": [
 					{
@@ -18936,14 +19168,15 @@
 		"naam": "Hellevoetsluis",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "30394",
 				"stemmen": {
-					"uitgebracht": "12515",
+					"geldig": "12515",
 					"ongeldig": "52",
-					"blanco": "33"
+					"blanco": "33",
+					"uitgebracht": 12600
 				},
 				"uitslag": [
 					{
@@ -19019,14 +19252,15 @@
 		"naam": "Hendrik-Ido-Ambacht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "21670",
 				"stemmen": {
-					"uitgebracht": "10825",
+					"geldig": "10825",
 					"ongeldig": "26",
-					"blanco": "31"
+					"blanco": "31",
+					"uitgebracht": 10882
 				},
 				"uitslag": [
 					{
@@ -19102,14 +19336,15 @@
 		"naam": "Hillegom",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "15979",
 				"stemmen": {
-					"uitgebracht": "8126",
+					"geldig": "8126",
 					"ongeldig": "26",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 8170
 				},
 				"uitslag": [
 					{
@@ -19181,14 +19416,15 @@
 		"naam": "Katwijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "47299",
 				"stemmen": {
-					"uitgebracht": "22592",
+					"geldig": "22592",
 					"ongeldig": "69",
-					"blanco": "72"
+					"blanco": "72",
+					"uitgebracht": 22733
 				},
 				"uitslag": [
 					{
@@ -19260,14 +19496,15 @@
 		"naam": "Krimpen aan den IJssel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "22332",
 				"stemmen": {
-					"uitgebracht": "12382",
+					"geldig": "12382",
 					"ongeldig": "24",
-					"blanco": "27"
+					"blanco": "27",
+					"uitgebracht": 12433
 				},
 				"uitslag": [
 					{
@@ -19339,14 +19576,15 @@
 		"naam": "Leerdam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "15457",
 				"stemmen": {
-					"uitgebracht": "7270",
+					"geldig": "7270",
 					"ongeldig": "15",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 7304
 				},
 				"uitslag": [
 					{
@@ -19422,14 +19660,15 @@
 		"naam": "Leiden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "91064",
 				"stemmen": {
-					"uitgebracht": "47574",
+					"geldig": "47574",
 					"ongeldig": "161",
-					"blanco": "224"
+					"blanco": "224",
+					"uitgebracht": 47959
 				},
 				"uitslag": [
 					{
@@ -19501,14 +19740,15 @@
 		"naam": "Leiderdorp",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "20502",
 				"stemmen": {
-					"uitgebracht": "10889",
+					"geldig": "10889",
 					"ongeldig": "52",
-					"blanco": "50"
+					"blanco": "50",
+					"uitgebracht": 10991
 				},
 				"uitslag": [
 					{
@@ -19580,14 +19820,15 @@
 		"naam": "Lisse",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "17293",
 				"stemmen": {
-					"uitgebracht": "9116",
+					"geldig": "9116",
 					"ongeldig": "25",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 9160
 				},
 				"uitslag": [
 					{
@@ -19659,14 +19900,15 @@
 		"naam": "Maassluis",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "24638",
 				"stemmen": {
-					"uitgebracht": "11507",
+					"geldig": "11507",
 					"ongeldig": "43",
-					"blanco": "46"
+					"blanco": "46",
+					"uitgebracht": 11596
 				},
 				"uitslag": [
 					{
@@ -19742,14 +19984,15 @@
 		"naam": "Nieuwkoop",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "21050",
 				"stemmen": {
-					"uitgebracht": "10134",
+					"geldig": "10134",
 					"ongeldig": "30",
-					"blanco": "24"
+					"blanco": "24",
+					"uitgebracht": 10188
 				},
 				"uitslag": [
 					{
@@ -19821,14 +20064,15 @@
 		"naam": "Noordwijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "19606",
 				"stemmen": {
-					"uitgebracht": "9644",
+					"geldig": "9644",
 					"ongeldig": "22",
-					"blanco": "36"
+					"blanco": "36",
+					"uitgebracht": 9702
 				},
 				"uitslag": [
 					{
@@ -19900,14 +20144,15 @@
 		"naam": "Noordwijkerhout",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "12142",
 				"stemmen": {
-					"uitgebracht": "6303",
+					"geldig": "6303",
 					"ongeldig": "36",
-					"blanco": "24"
+					"blanco": "24",
+					"uitgebracht": 6363
 				},
 				"uitslag": [
 					{
@@ -19979,14 +20224,15 @@
 		"naam": "Oegstgeest",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "16748",
 				"stemmen": {
-					"uitgebracht": "10391",
+					"geldig": "10391",
 					"ongeldig": "17",
-					"blanco": "29"
+					"blanco": "29",
+					"uitgebracht": 10437
 				},
 				"uitslag": [
 					{
@@ -20058,14 +20304,15 @@
 		"naam": "Oud-Beijerland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "18235",
 				"stemmen": {
-					"uitgebracht": "9020",
+					"geldig": "9020",
 					"ongeldig": "20",
-					"blanco": "37"
+					"blanco": "37",
+					"uitgebracht": 9077
 				},
 				"uitslag": [
 					{
@@ -20141,14 +20388,15 @@
 		"naam": "Binnenmaas",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "22697",
 				"stemmen": {
-					"uitgebracht": "11826",
+					"geldig": "11826",
 					"ongeldig": "29",
-					"blanco": "35"
+					"blanco": "35",
+					"uitgebracht": 11890
 				},
 				"uitslag": [
 					{
@@ -20224,14 +20472,15 @@
 		"naam": "Korendijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "8331",
 				"stemmen": {
-					"uitgebracht": "4736",
+					"geldig": "4736",
 					"ongeldig": "10",
-					"blanco": "11"
+					"blanco": "11",
+					"uitgebracht": 4757
 				},
 				"uitslag": [
 					{
@@ -20307,14 +20556,15 @@
 		"naam": "Papendrecht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "24770",
 				"stemmen": {
-					"uitgebracht": "11719",
+					"geldig": "11719",
 					"ongeldig": "31",
-					"blanco": "31"
+					"blanco": "31",
+					"uitgebracht": 11781
 				},
 				"uitslag": [
 					{
@@ -20390,14 +20640,15 @@
 		"naam": "Ridderkerk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "36101",
 				"stemmen": {
-					"uitgebracht": "16506",
+					"geldig": "16506",
 					"ongeldig": "46",
-					"blanco": "42"
+					"blanco": "42",
+					"uitgebracht": 16594
 				},
 				"uitslag": [
 					{
@@ -20473,14 +20724,15 @@
 		"naam": "Rotterdam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "448034",
 				"stemmen": {
-					"uitgebracht": "155649",
+					"geldig": "155649",
 					"ongeldig": "1041",
-					"blanco": "748"
+					"blanco": "748",
+					"uitgebracht": 157438
 				},
 				"uitslag": [
 					{
@@ -20548,14 +20800,15 @@
 		"naam": "Rijswijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "37288",
 				"stemmen": {
-					"uitgebracht": "17834",
+					"geldig": "17834",
 					"ongeldig": "65",
-					"blanco": "106"
+					"blanco": "106",
+					"uitgebracht": 18005
 				},
 				"uitslag": [
 					{
@@ -20631,14 +20884,15 @@
 		"naam": "Schiedam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "55806",
 				"stemmen": {
-					"uitgebracht": "21054",
+					"geldig": "21054",
 					"ongeldig": "93",
-					"blanco": "70"
+					"blanco": "70",
+					"uitgebracht": 21217
 				},
 				"uitslag": [
 					{
@@ -20714,14 +20968,15 @@
 		"naam": "Sliedrecht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "18780",
 				"stemmen": {
-					"uitgebracht": "9353",
+					"geldig": "9353",
 					"ongeldig": "29",
-					"blanco": "24"
+					"blanco": "24",
+					"uitgebracht": 9406
 				},
 				"uitslag": [
 					{
@@ -20797,14 +21052,15 @@
 		"naam": "Cromstrijen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "10193",
 				"stemmen": {
-					"uitgebracht": "5177",
+					"geldig": "5177",
 					"ongeldig": "15",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 5218
 				},
 				"uitslag": [
 					{
@@ -20880,14 +21136,15 @@
 		"naam": "Albrandswaard",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "18922",
 				"stemmen": {
-					"uitgebracht": "8800",
+					"geldig": "8800",
 					"ongeldig": "31",
-					"blanco": "21"
+					"blanco": "21",
+					"uitgebracht": 8852
 				},
 				"uitslag": [
 					{
@@ -20963,14 +21220,15 @@
 		"naam": "Westvoorne",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "11333",
 				"stemmen": {
-					"uitgebracht": "5833",
+					"geldig": "5833",
 					"ongeldig": "22",
-					"blanco": "23"
+					"blanco": "23",
+					"uitgebracht": 5878
 				},
 				"uitslag": [
 					{
@@ -21046,14 +21304,15 @@
 		"naam": "Strijen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "7029",
 				"stemmen": {
-					"uitgebracht": "3528",
+					"geldig": "3528",
 					"ongeldig": "9",
-					"blanco": "9"
+					"blanco": "9",
+					"uitgebracht": 3546
 				},
 				"uitslag": [
 					{
@@ -21129,14 +21388,15 @@
 		"naam": "Vlaardingen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "54128",
 				"stemmen": {
-					"uitgebracht": "22869",
+					"geldig": "22869",
 					"ongeldig": "73",
-					"blanco": "85"
+					"blanco": "85",
+					"uitgebracht": 23027
 				},
 				"uitslag": [
 					{
@@ -21212,14 +21472,15 @@
 		"naam": "Voorschoten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "18598",
 				"stemmen": {
-					"uitgebracht": "10834",
+					"geldig": "10834",
 					"ongeldig": "35",
-					"blanco": "39"
+					"blanco": "39",
+					"uitgebracht": 10908
 				},
 				"uitslag": [
 					{
@@ -21291,14 +21552,15 @@
 		"naam": "Waddinxveen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "19663",
 				"stemmen": {
-					"uitgebracht": "10201",
+					"geldig": "10201",
 					"ongeldig": "23",
-					"blanco": "39"
+					"blanco": "39",
+					"uitgebracht": 10263
 				},
 				"uitslag": [
 					{
@@ -21370,14 +21632,15 @@
 		"naam": "Wassenaar",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "17596",
 				"stemmen": {
-					"uitgebracht": "10098",
+					"geldig": "10098",
 					"ongeldig": "35",
-					"blanco": "24"
+					"blanco": "24",
+					"uitgebracht": 10157
 				},
 				"uitslag": [
 					{
@@ -21449,14 +21712,15 @@
 		"naam": "Zoetermeer",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "94944",
 				"stemmen": {
-					"uitgebracht": "42119",
+					"geldig": "42119",
 					"ongeldig": "115",
-					"blanco": "129"
+					"blanco": "129",
+					"uitgebracht": 42363
 				},
 				"uitslag": [
 					{
@@ -21528,14 +21792,15 @@
 		"naam": "Zoeterwoude",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "6395",
 				"stemmen": {
-					"uitgebracht": "3391",
+					"geldig": "3391",
 					"ongeldig": "11",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 3417
 				},
 				"uitslag": [
 					{
@@ -21607,14 +21872,15 @@
 		"naam": "Zwijndrecht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "34553",
 				"stemmen": {
-					"uitgebracht": "15265",
+					"geldig": "15265",
 					"ongeldig": "56",
-					"blanco": "50"
+					"blanco": "50",
+					"uitgebracht": 15371
 				},
 				"uitslag": [
 					{
@@ -21690,14 +21956,15 @@
 		"naam": "Giessenlanden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "11062",
 				"stemmen": {
-					"uitgebracht": "6506",
+					"geldig": "6506",
 					"ongeldig": "8",
-					"blanco": "5"
+					"blanco": "5",
+					"uitgebracht": 6519
 				},
 				"uitslag": [
 					{
@@ -21773,14 +22040,15 @@
 		"naam": "Zederik",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "10463",
 				"stemmen": {
-					"uitgebracht": "6398",
+					"geldig": "6398",
 					"ongeldig": "20",
-					"blanco": "10"
+					"blanco": "10",
+					"uitgebracht": 6428
 				},
 				"uitslag": [
 					{
@@ -21856,14 +22124,15 @@
 		"naam": "Teylingen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "26651",
 				"stemmen": {
-					"uitgebracht": "14226",
+					"geldig": "14226",
 					"ongeldig": "50",
-					"blanco": "46"
+					"blanco": "46",
+					"uitgebracht": 14322
 				},
 				"uitslag": [
 					{
@@ -21935,14 +22204,15 @@
 		"naam": "Lansingerland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "41725",
 				"stemmen": {
-					"uitgebracht": "21019",
+					"geldig": "21019",
 					"ongeldig": "44",
-					"blanco": "67"
+					"blanco": "67",
+					"uitgebracht": 21130
 				},
 				"uitslag": [
 					{
@@ -22014,14 +22284,15 @@
 		"naam": "Westland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "77582",
 				"stemmen": {
-					"uitgebracht": "38872",
+					"geldig": "38872",
 					"ongeldig": "106",
-					"blanco": "122"
+					"blanco": "122",
+					"uitgebracht": 39100
 				},
 				"uitslag": [
 					{
@@ -22097,14 +22368,15 @@
 		"naam": "Midden-Delfland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "14187",
 				"stemmen": {
-					"uitgebracht": "8019",
+					"geldig": "8019",
 					"ongeldig": "13",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 8054
 				},
 				"uitslag": [
 					{
@@ -22180,14 +22452,15 @@
 		"naam": "Kaag en Braassem",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "19949",
 				"stemmen": {
-					"uitgebracht": "10059",
+					"geldig": "10059",
 					"ongeldig": "28",
-					"blanco": "37"
+					"blanco": "37",
+					"uitgebracht": 10124
 				},
 				"uitslag": [
 					{
@@ -22259,14 +22532,15 @@
 		"naam": "Zuidplas",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "30988",
 				"stemmen": {
-					"uitgebracht": "16225",
+					"geldig": "16225",
 					"ongeldig": "40",
-					"blanco": "33"
+					"blanco": "33",
+					"uitgebracht": 16298
 				},
 				"uitslag": [
 					{
@@ -22338,14 +22612,15 @@
 		"naam": "Bodegraven-Reeuwijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "25160",
 				"stemmen": {
-					"uitgebracht": "13885",
+					"geldig": "13885",
 					"ongeldig": "42",
-					"blanco": "38"
+					"blanco": "38",
+					"uitgebracht": 13965
 				},
 				"uitslag": [
 					{
@@ -22417,14 +22692,15 @@
 		"naam": "Leidschendam-Voorburg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "55901",
 				"stemmen": {
-					"uitgebracht": "29271",
+					"geldig": "29271",
 					"ongeldig": "119",
-					"blanco": "81"
+					"blanco": "81",
+					"uitgebracht": 29471
 				},
 				"uitslag": [
 					{
@@ -22496,14 +22772,15 @@
 		"naam": "Goeree-Overflakkee",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "37585",
 				"stemmen": {
-					"uitgebracht": "20476",
+					"geldig": "20476",
 					"ongeldig": "52",
-					"blanco": "28"
+					"blanco": "28",
+					"uitgebracht": 20556
 				},
 				"uitslag": [
 					{
@@ -22579,14 +22856,15 @@
 		"naam": "Pijnacker-Nootdorp",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "36537",
 				"stemmen": {
-					"uitgebracht": "18840",
+					"geldig": "18840",
 					"ongeldig": "52",
-					"blanco": "60"
+					"blanco": "60",
+					"uitgebracht": 18952
 				},
 				"uitslag": [
 					{
@@ -22658,14 +22936,15 @@
 		"naam": "Molenwaard",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "21190",
 				"stemmen": {
-					"uitgebracht": "13012",
+					"geldig": "13012",
 					"ongeldig": "28",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 13059
 				},
 				"uitslag": [
 					{
@@ -22741,14 +23020,15 @@
 		"naam": "Nissewaard",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "66834",
 				"stemmen": {
-					"uitgebracht": "26272",
+					"geldig": "26272",
 					"ongeldig": "108",
-					"blanco": "89"
+					"blanco": "89",
+					"uitgebracht": 26469
 				},
 				"uitslag": [
 					{
@@ -22824,14 +23104,15 @@
 		"naam": "Krimpenerwaard",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zuid-Holland",
 				"kiesgerechtigden": "41824",
 				"stemmen": {
-					"uitgebracht": "23257",
+					"geldig": "23257",
 					"ongeldig": "62",
-					"blanco": "52"
+					"blanco": "52",
+					"uitgebracht": 23371
 				},
 				"uitslag": [
 					{
@@ -22903,14 +23184,15 @@
 		"naam": "Borsele",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "17061",
 				"stemmen": {
-					"uitgebracht": "9752",
+					"geldig": "9752",
 					"ongeldig": "31",
-					"blanco": "14"
+					"blanco": "14",
+					"uitgebracht": 9797
 				},
 				"uitslag": [
 					{
@@ -22974,14 +23256,15 @@
 		"naam": "Goes",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "29152",
 				"stemmen": {
-					"uitgebracht": "15225",
+					"geldig": "15225",
 					"ongeldig": "39",
-					"blanco": "35"
+					"blanco": "35",
+					"uitgebracht": 15299
 				},
 				"uitslag": [
 					{
@@ -23045,14 +23328,15 @@
 		"naam": "Hulst",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "20039",
 				"stemmen": {
-					"uitgebracht": "9403",
+					"geldig": "9403",
 					"ongeldig": "22",
-					"blanco": "36"
+					"blanco": "36",
+					"uitgebracht": 9461
 				},
 				"uitslag": [
 					{
@@ -23116,14 +23400,15 @@
 		"naam": "Kapelle",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "9454",
 				"stemmen": {
-					"uitgebracht": "5783",
+					"geldig": "5783",
 					"ongeldig": "15",
-					"blanco": "7"
+					"blanco": "7",
+					"uitgebracht": 5805
 				},
 				"uitslag": [
 					{
@@ -23187,14 +23472,15 @@
 		"naam": "Middelburg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "36645",
 				"stemmen": {
-					"uitgebracht": "19421",
+					"geldig": "19421",
 					"ongeldig": "38",
-					"blanco": "38"
+					"blanco": "38",
+					"uitgebracht": 19497
 				},
 				"uitslag": [
 					{
@@ -23258,14 +23544,15 @@
 		"naam": "Reimerswaal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "15415",
 				"stemmen": {
-					"uitgebracht": "9953",
+					"geldig": "9953",
 					"ongeldig": "22",
-					"blanco": "12"
+					"blanco": "12",
+					"uitgebracht": 9987
 				},
 				"uitslag": [
 					{
@@ -23329,14 +23616,15 @@
 		"naam": "Terneuzen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "40774",
 				"stemmen": {
-					"uitgebracht": "18263",
+					"geldig": "18263",
 					"ongeldig": "55",
-					"blanco": "55"
+					"blanco": "55",
+					"uitgebracht": 18373
 				},
 				"uitslag": [
 					{
@@ -23400,14 +23688,15 @@
 		"naam": "Tholen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "18990",
 				"stemmen": {
-					"uitgebracht": "10488",
+					"geldig": "10488",
 					"ongeldig": "25",
-					"blanco": "13"
+					"blanco": "13",
+					"uitgebracht": 10526
 				},
 				"uitslag": [
 					{
@@ -23471,14 +23760,15 @@
 		"naam": "Veere",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "17102",
 				"stemmen": {
-					"uitgebracht": "10794",
+					"geldig": "10794",
 					"ongeldig": "18",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 10827
 				},
 				"uitslag": [
 					{
@@ -23542,14 +23832,15 @@
 		"naam": "Vlissingen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "34151",
 				"stemmen": {
-					"uitgebracht": "14613",
+					"geldig": "14613",
 					"ongeldig": "56",
-					"blanco": "45"
+					"blanco": "45",
+					"uitgebracht": 14714
 				},
 				"uitslag": [
 					{
@@ -23613,14 +23904,15 @@
 		"naam": "Schouwen-Duiveland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "26926",
 				"stemmen": {
-					"uitgebracht": "15019",
+					"geldig": "15019",
 					"ongeldig": "32",
-					"blanco": "27"
+					"blanco": "27",
+					"uitgebracht": 15078
 				},
 				"uitslag": [
 					{
@@ -23684,14 +23976,15 @@
 		"naam": "Noord-Beveland",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "5887",
 				"stemmen": {
-					"uitgebracht": "3151",
+					"geldig": "3151",
 					"ongeldig": "8",
-					"blanco": "10"
+					"blanco": "10",
+					"uitgebracht": 3169
 				},
 				"uitslag": [
 					{
@@ -23755,14 +24048,15 @@
 		"naam": "Sluis",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Zeeland",
 				"kiesgerechtigden": "17737",
 				"stemmen": {
-					"uitgebracht": "8454",
+					"geldig": "8454",
 					"ongeldig": "23",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 8496
 				},
 				"uitslag": [
 					{
@@ -23826,14 +24120,15 @@
 		"naam": "Aalburg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "9607",
 				"stemmen": {
-					"uitgebracht": "5329",
+					"geldig": "5329",
 					"ongeldig": "11",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 5358
 				},
 				"uitslag": [
 					{
@@ -23905,14 +24200,15 @@
 		"naam": "Asten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "12660",
 				"stemmen": {
-					"uitgebracht": "6171",
+					"geldig": "6171",
 					"ongeldig": "16",
-					"blanco": "29"
+					"blanco": "29",
+					"uitgebracht": 6216
 				},
 				"uitslag": [
 					{
@@ -23980,14 +24276,15 @@
 		"naam": "Baarle-Nassau",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "5177",
 				"stemmen": {
-					"uitgebracht": "2252",
+					"geldig": "2252",
 					"ongeldig": "7",
-					"blanco": "5"
+					"blanco": "5",
+					"uitgebracht": 2264
 				},
 				"uitslag": [
 					{
@@ -24059,14 +24356,15 @@
 		"naam": "Bergen op Zoom",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "50578",
 				"stemmen": {
-					"uitgebracht": "21005",
+					"geldig": "21005",
 					"ongeldig": "61",
-					"blanco": "74"
+					"blanco": "74",
+					"uitgebracht": 21140
 				},
 				"uitslag": [
 					{
@@ -24138,14 +24436,15 @@
 		"naam": "Best",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "21795",
 				"stemmen": {
-					"uitgebracht": "10025",
+					"geldig": "10025",
 					"ongeldig": "18",
-					"blanco": "48"
+					"blanco": "48",
+					"uitgebracht": 10091
 				},
 				"uitslag": [
 					{
@@ -24213,14 +24512,15 @@
 		"naam": "Boekel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "7626",
 				"stemmen": {
-					"uitgebracht": "3650",
+					"geldig": "3650",
 					"ongeldig": "20",
-					"blanco": "16"
+					"blanco": "16",
+					"uitgebracht": 3686
 				},
 				"uitslag": [
 					{
@@ -24288,14 +24588,15 @@
 		"naam": "Boxmeer",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "21988",
 				"stemmen": {
-					"uitgebracht": "11684",
+					"geldig": "11684",
 					"ongeldig": "31",
-					"blanco": "48"
+					"blanco": "48",
+					"uitgebracht": 11763
 				},
 				"uitslag": [
 					{
@@ -24363,14 +24664,15 @@
 		"naam": "Boxtel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "23279",
 				"stemmen": {
-					"uitgebracht": "10187",
+					"geldig": "10187",
 					"ongeldig": "31",
-					"blanco": "45"
+					"blanco": "45",
+					"uitgebracht": 10263
 				},
 				"uitslag": [
 					{
@@ -24438,14 +24740,15 @@
 		"naam": "Breda",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "138511",
 				"stemmen": {
-					"uitgebracht": "58108",
+					"geldig": "58108",
 					"ongeldig": "187",
-					"blanco": "184"
+					"blanco": "184",
+					"uitgebracht": 58479
 				},
 				"uitslag": [
 					{
@@ -24517,14 +24820,15 @@
 		"naam": "Deurne",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "24970",
 				"stemmen": {
-					"uitgebracht": "10804",
+					"geldig": "10804",
 					"ongeldig": "34",
-					"blanco": "42"
+					"blanco": "42",
+					"uitgebracht": 10880
 				},
 				"uitslag": [
 					{
@@ -24592,14 +24896,15 @@
 		"naam": "Dongen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "19783",
 				"stemmen": {
-					"uitgebracht": "8468",
+					"geldig": "8468",
 					"ongeldig": "28",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 8515
 				},
 				"uitslag": [
 					{
@@ -24671,14 +24976,15 @@
 		"naam": "Eersel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "14563",
 				"stemmen": {
-					"uitgebracht": "6737",
+					"geldig": "6737",
 					"ongeldig": "20",
-					"blanco": "27"
+					"blanco": "27",
+					"uitgebracht": 6784
 				},
 				"uitslag": [
 					{
@@ -24746,14 +25052,15 @@
 		"naam": "Eindhoven",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "163647",
 				"stemmen": {
-					"uitgebracht": "66400",
+					"geldig": "66400",
 					"ongeldig": "200",
-					"blanco": "281"
+					"blanco": "281",
+					"uitgebracht": 66881
 				},
 				"uitslag": [
 					{
@@ -24821,14 +25128,15 @@
 		"naam": "Etten-Leur",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "32421",
 				"stemmen": {
-					"uitgebracht": "13465",
+					"geldig": "13465",
 					"ongeldig": "45",
-					"blanco": "45"
+					"blanco": "45",
+					"uitgebracht": 13555
 				},
 				"uitslag": [
 					{
@@ -24900,14 +25208,15 @@
 		"naam": "Geertruidenberg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "16924",
 				"stemmen": {
-					"uitgebracht": "6689",
+					"geldig": "6689",
 					"ongeldig": "20",
-					"blanco": "20"
+					"blanco": "20",
+					"uitgebracht": 6729
 				},
 				"uitslag": [
 					{
@@ -24979,14 +25288,15 @@
 		"naam": "Gilze en Rijen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "19899",
 				"stemmen": {
-					"uitgebracht": "8598",
+					"geldig": "8598",
 					"ongeldig": "24",
-					"blanco": "25"
+					"blanco": "25",
+					"uitgebracht": 8647
 				},
 				"uitslag": [
 					{
@@ -25058,14 +25368,15 @@
 		"naam": "Goirle",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "17986",
 				"stemmen": {
-					"uitgebracht": "8478",
+					"geldig": "8478",
 					"ongeldig": "11",
-					"blanco": "16"
+					"blanco": "16",
+					"uitgebracht": 8505
 				},
 				"uitslag": [
 					{
@@ -25137,14 +25448,15 @@
 		"naam": "Grave",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "9563",
 				"stemmen": {
-					"uitgebracht": "4795",
+					"geldig": "4795",
 					"ongeldig": "15",
-					"blanco": "8"
+					"blanco": "8",
+					"uitgebracht": 4818
 				},
 				"uitslag": [
 					{
@@ -25212,14 +25524,15 @@
 		"naam": "Haaren",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "10709",
 				"stemmen": {
-					"uitgebracht": "4905",
+					"geldig": "4905",
 					"ongeldig": "6",
-					"blanco": "16"
+					"blanco": "16",
+					"uitgebracht": 4927
 				},
 				"uitslag": [
 					{
@@ -25287,14 +25600,15 @@
 		"naam": "Helmond",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "65109",
 				"stemmen": {
-					"uitgebracht": "25463",
+					"geldig": "25463",
 					"ongeldig": "71",
-					"blanco": "73"
+					"blanco": "73",
+					"uitgebracht": 25607
 				},
 				"uitslag": [
 					{
@@ -25362,14 +25676,15 @@
 		"naam": "'s-Hertogenbosch",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "116476",
 				"stemmen": {
-					"uitgebracht": "52041",
+					"geldig": "52041",
 					"ongeldig": "191",
-					"blanco": "137"
+					"blanco": "137",
+					"uitgebracht": 52369
 				},
 				"uitslag": [
 					{
@@ -25437,14 +25752,15 @@
 		"naam": "Heusden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "33248",
 				"stemmen": {
-					"uitgebracht": "14348",
+					"geldig": "14348",
 					"ongeldig": "36",
-					"blanco": "40"
+					"blanco": "40",
+					"uitgebracht": 14424
 				},
 				"uitslag": [
 					{
@@ -25512,14 +25828,15 @@
 		"naam": "Hilvarenbeek",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "11838",
 				"stemmen": {
-					"uitgebracht": "5790",
+					"geldig": "5790",
 					"ongeldig": "15",
-					"blanco": "12"
+					"blanco": "12",
+					"uitgebracht": 5817
 				},
 				"uitslag": [
 					{
@@ -25591,14 +25908,15 @@
 		"naam": "Loon op Zand",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "18087",
 				"stemmen": {
-					"uitgebracht": "7882",
+					"geldig": "7882",
 					"ongeldig": "16",
-					"blanco": "28"
+					"blanco": "28",
+					"uitgebracht": 7926
 				},
 				"uitslag": [
 					{
@@ -25670,14 +25988,15 @@
 		"naam": "Mill en Sint Hubert",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "8559",
 				"stemmen": {
-					"uitgebracht": "4141",
+					"geldig": "4141",
 					"ongeldig": "23",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 4179
 				},
 				"uitslag": [
 					{
@@ -25745,14 +26064,15 @@
 		"naam": "Nuenen, Gerwen en Nederwetten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "17877",
 				"stemmen": {
-					"uitgebracht": "9967",
+					"geldig": "9967",
 					"ongeldig": "14",
-					"blanco": "46"
+					"blanco": "46",
+					"uitgebracht": 10027
 				},
 				"uitslag": [
 					{
@@ -25820,14 +26140,15 @@
 		"naam": "Oirschot",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "14206",
 				"stemmen": {
-					"uitgebracht": "6908",
+					"geldig": "6908",
 					"ongeldig": "17",
-					"blanco": "23"
+					"blanco": "23",
+					"uitgebracht": 6948
 				},
 				"uitslag": [
 					{
@@ -25895,14 +26216,15 @@
 		"naam": "Oisterwijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "20098",
 				"stemmen": {
-					"uitgebracht": "9711",
+					"geldig": "9711",
 					"ongeldig": "36",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 9766
 				},
 				"uitslag": [
 					{
@@ -25974,14 +26296,15 @@
 		"naam": "Oosterhout",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "41723",
 				"stemmen": {
-					"uitgebracht": "17517",
+					"geldig": "17517",
 					"ongeldig": "45",
-					"blanco": "50"
+					"blanco": "50",
+					"uitgebracht": 17612
 				},
 				"uitslag": [
 					{
@@ -26053,14 +26376,15 @@
 		"naam": "Oss",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "68881",
 				"stemmen": {
-					"uitgebracht": "29446",
+					"geldig": "29446",
 					"ongeldig": "83",
-					"blanco": "102"
+					"blanco": "102",
+					"uitgebracht": 29631
 				},
 				"uitslag": [
 					{
@@ -26128,14 +26452,15 @@
 		"naam": "Rucphen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "18229",
 				"stemmen": {
-					"uitgebracht": "6561",
+					"geldig": "6561",
 					"ongeldig": "15",
-					"blanco": "14"
+					"blanco": "14",
+					"uitgebracht": 6590
 				},
 				"uitslag": [
 					{
@@ -26207,14 +26532,15 @@
 		"naam": "Schijndel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "18401",
 				"stemmen": {
-					"uitgebracht": "7696",
+					"geldig": "7696",
 					"ongeldig": "22",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 7733
 				},
 				"uitslag": [
 					{
@@ -26282,14 +26608,15 @@
 		"naam": "Sint-Michielsgestel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "21957",
 				"stemmen": {
-					"uitgebracht": "10219",
+					"geldig": "10219",
 					"ongeldig": "27",
-					"blanco": "34"
+					"blanco": "34",
+					"uitgebracht": 10280
 				},
 				"uitslag": [
 					{
@@ -26357,14 +26684,15 @@
 		"naam": "Sint-Oedenrode",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "13835",
 				"stemmen": {
-					"uitgebracht": "6625",
+					"geldig": "6625",
 					"ongeldig": "10",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 6653
 				},
 				"uitslag": [
 					{
@@ -26432,14 +26760,15 @@
 		"naam": "Someren",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "14564",
 				"stemmen": {
-					"uitgebracht": "6714",
+					"geldig": "6714",
 					"ongeldig": "21",
-					"blanco": "15"
+					"blanco": "15",
+					"uitgebracht": 6750
 				},
 				"uitslag": [
 					{
@@ -26507,14 +26836,15 @@
 		"naam": "Son en Breugel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "12445",
 				"stemmen": {
-					"uitgebracht": "6515",
+					"geldig": "6515",
 					"ongeldig": "15",
-					"blanco": "16"
+					"blanco": "16",
+					"uitgebracht": 6546
 				},
 				"uitslag": [
 					{
@@ -26582,14 +26912,15 @@
 		"naam": "Steenbergen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "18388",
 				"stemmen": {
-					"uitgebracht": "7602",
+					"geldig": "7602",
 					"ongeldig": "27",
-					"blanco": "22"
+					"blanco": "22",
+					"uitgebracht": 7651
 				},
 				"uitslag": [
 					{
@@ -26661,14 +26992,15 @@
 		"naam": "Tilburg",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "160776",
 				"stemmen": {
-					"uitgebracht": "59058",
+					"geldig": "59058",
 					"ongeldig": "178",
-					"blanco": "174"
+					"blanco": "174",
+					"uitgebracht": 59410
 				},
 				"uitslag": [
 					{
@@ -26740,14 +27072,15 @@
 		"naam": "Uden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "31698",
 				"stemmen": {
-					"uitgebracht": "14722",
+					"geldig": "14722",
 					"ongeldig": "38",
-					"blanco": "41"
+					"blanco": "41",
+					"uitgebracht": 14801
 				},
 				"uitslag": [
 					{
@@ -26815,14 +27148,15 @@
 		"naam": "Valkenswaard",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "24228",
 				"stemmen": {
-					"uitgebracht": "10573",
+					"geldig": "10573",
 					"ongeldig": "13",
-					"blanco": "57"
+					"blanco": "57",
+					"uitgebracht": 10643
 				},
 				"uitslag": [
 					{
@@ -26890,14 +27224,15 @@
 		"naam": "Veghel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "28222",
 				"stemmen": {
-					"uitgebracht": "12710",
+					"geldig": "12710",
 					"ongeldig": "34",
-					"blanco": "54"
+					"blanco": "54",
+					"uitgebracht": 12798
 				},
 				"uitslag": [
 					{
@@ -26965,14 +27300,15 @@
 		"naam": "Veldhoven",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "34159",
 				"stemmen": {
-					"uitgebracht": "15345",
+					"geldig": "15345",
 					"ongeldig": "27",
-					"blanco": "64"
+					"blanco": "64",
+					"uitgebracht": 15436
 				},
 				"uitslag": [
 					{
@@ -27040,14 +27376,15 @@
 		"naam": "Vught",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "19986",
 				"stemmen": {
-					"uitgebracht": "10063",
+					"geldig": "10063",
 					"ongeldig": "19",
-					"blanco": "34"
+					"blanco": "34",
+					"uitgebracht": 10116
 				},
 				"uitslag": [
 					{
@@ -27115,14 +27452,15 @@
 		"naam": "Waalre",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "12870",
 				"stemmen": {
-					"uitgebracht": "6966",
+					"geldig": "6966",
 					"ongeldig": "16",
-					"blanco": "17"
+					"blanco": "17",
+					"uitgebracht": 6999
 				},
 				"uitslag": [
 					{
@@ -27190,14 +27528,15 @@
 		"naam": "Waalwijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "36105",
 				"stemmen": {
-					"uitgebracht": "14916",
+					"geldig": "14916",
 					"ongeldig": "58",
-					"blanco": "38"
+					"blanco": "38",
+					"uitgebracht": 15012
 				},
 				"uitslag": [
 					{
@@ -27269,14 +27608,15 @@
 		"naam": "Werkendam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "20312",
 				"stemmen": {
-					"uitgebracht": "9883",
+					"geldig": "9883",
 					"ongeldig": "20",
-					"blanco": "28"
+					"blanco": "28",
+					"uitgebracht": 9931
 				},
 				"uitslag": [
 					{
@@ -27348,14 +27688,15 @@
 		"naam": "Woensdrecht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "16220",
 				"stemmen": {
-					"uitgebracht": "6834",
+					"geldig": "6834",
 					"ongeldig": "18",
-					"blanco": "13"
+					"blanco": "13",
+					"uitgebracht": 6865
 				},
 				"uitslag": [
 					{
@@ -27427,14 +27768,15 @@
 		"naam": "Woudrichem",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "11149",
 				"stemmen": {
-					"uitgebracht": "5603",
+					"geldig": "5603",
 					"ongeldig": "15",
-					"blanco": "10"
+					"blanco": "10",
+					"uitgebracht": 5628
 				},
 				"uitslag": [
 					{
@@ -27506,14 +27848,15 @@
 		"naam": "Zundert",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "16340",
 				"stemmen": {
-					"uitgebracht": "6346",
+					"geldig": "6346",
 					"ongeldig": "18",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 6390
 				},
 				"uitslag": [
 					{
@@ -27585,14 +27928,15 @@
 		"naam": "Gemert-Bakel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "22684",
 				"stemmen": {
-					"uitgebracht": "10290",
+					"geldig": "10290",
 					"ongeldig": "30",
-					"blanco": "52"
+					"blanco": "52",
+					"uitgebracht": 10372
 				},
 				"uitslag": [
 					{
@@ -27660,14 +28004,15 @@
 		"naam": "Halderberge",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "23213",
 				"stemmen": {
-					"uitgebracht": "9449",
+					"geldig": "9449",
 					"ongeldig": "21",
-					"blanco": "38"
+					"blanco": "38",
+					"uitgebracht": 9508
 				},
 				"uitslag": [
 					{
@@ -27739,14 +28084,15 @@
 		"naam": "Heeze-Leende",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "12239",
 				"stemmen": {
-					"uitgebracht": "6195",
+					"geldig": "6195",
 					"ongeldig": "9",
-					"blanco": "21"
+					"blanco": "21",
+					"uitgebracht": 6225
 				},
 				"uitslag": [
 					{
@@ -27814,14 +28160,15 @@
 		"naam": "Laarbeek",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "17086",
 				"stemmen": {
-					"uitgebracht": "7847",
+					"geldig": "7847",
 					"ongeldig": "19",
-					"blanco": "24"
+					"blanco": "24",
+					"uitgebracht": 7890
 				},
 				"uitslag": [
 					{
@@ -27889,14 +28236,15 @@
 		"naam": "Reusel-De Mierden",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "10003",
 				"stemmen": {
-					"uitgebracht": "4214",
+					"geldig": "4214",
 					"ongeldig": "9",
-					"blanco": "11"
+					"blanco": "11",
+					"uitgebracht": 4234
 				},
 				"uitslag": [
 					{
@@ -27964,14 +28312,15 @@
 		"naam": "Roosendaal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "58690",
 				"stemmen": {
-					"uitgebracht": "23898",
+					"geldig": "23898",
 					"ongeldig": "77",
-					"blanco": "73"
+					"blanco": "73",
+					"uitgebracht": 24048
 				},
 				"uitslag": [
 					{
@@ -28043,14 +28392,15 @@
 		"naam": "Cuijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "18961",
 				"stemmen": {
-					"uitgebracht": "8854",
+					"geldig": "8854",
 					"ongeldig": "32",
-					"blanco": "33"
+					"blanco": "33",
+					"uitgebracht": 8919
 				},
 				"uitslag": [
 					{
@@ -28118,14 +28468,15 @@
 		"naam": "Landerd",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "11794",
 				"stemmen": {
-					"uitgebracht": "5709",
+					"geldig": "5709",
 					"ongeldig": "19",
-					"blanco": "23"
+					"blanco": "23",
+					"uitgebracht": 5751
 				},
 				"uitslag": [
 					{
@@ -28193,14 +28544,15 @@
 		"naam": "Sint Anthonis",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "9104",
 				"stemmen": {
-					"uitgebracht": "5002",
+					"geldig": "5002",
 					"ongeldig": "16",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 5037
 				},
 				"uitslag": [
 					{
@@ -28268,14 +28620,15 @@
 		"naam": "Cranendonck",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "16004",
 				"stemmen": {
-					"uitgebracht": "6875",
+					"geldig": "6875",
 					"ongeldig": "23",
-					"blanco": "28"
+					"blanco": "28",
+					"uitgebracht": 6926
 				},
 				"uitslag": [
 					{
@@ -28343,14 +28696,15 @@
 		"naam": "Moerdijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "28564",
 				"stemmen": {
-					"uitgebracht": "12242",
+					"geldig": "12242",
 					"ongeldig": "25",
-					"blanco": "33"
+					"blanco": "33",
+					"uitgebracht": 12300
 				},
 				"uitslag": [
 					{
@@ -28422,14 +28776,15 @@
 		"naam": "Drimmelen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "21170",
 				"stemmen": {
-					"uitgebracht": "9407",
+					"geldig": "9407",
 					"ongeldig": "29",
-					"blanco": "37"
+					"blanco": "37",
+					"uitgebracht": 9473
 				},
 				"uitslag": [
 					{
@@ -28501,14 +28856,15 @@
 		"naam": "Bernheze",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "22655",
 				"stemmen": {
-					"uitgebracht": "10001",
+					"geldig": "10001",
 					"ongeldig": "18",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 10045
 				},
 				"uitslag": [
 					{
@@ -28576,14 +28932,15 @@
 		"naam": "Alphen-Chaam",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "7647",
 				"stemmen": {
-					"uitgebracht": "3928",
+					"geldig": "3928",
 					"ongeldig": "22",
-					"blanco": "11"
+					"blanco": "11",
+					"uitgebracht": 3961
 				},
 				"uitslag": [
 					{
@@ -28655,14 +29012,15 @@
 		"naam": "Bergeijk",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "14201",
 				"stemmen": {
-					"uitgebracht": "6845",
+					"geldig": "6845",
 					"ongeldig": "15",
-					"blanco": "20"
+					"blanco": "20",
+					"uitgebracht": 6880
 				},
 				"uitslag": [
 					{
@@ -28730,14 +29088,15 @@
 		"naam": "Bladel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "15446",
 				"stemmen": {
-					"uitgebracht": "6917",
+					"geldig": "6917",
 					"ongeldig": "13",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 6949
 				},
 				"uitslag": [
 					{
@@ -28805,14 +29164,15 @@
 		"naam": "Geldrop-Mierlo",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Noord-Brabant",
 				"kiesgerechtigden": "30061",
 				"stemmen": {
-					"uitgebracht": "13752",
+					"geldig": "13752",
 					"ongeldig": "26",
-					"blanco": "54"
+					"blanco": "54",
+					"uitgebracht": 13832
 				},
 				"uitslag": [
 					{
@@ -28880,14 +29240,15 @@
 		"naam": "Onderbanken",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "6315",
 				"stemmen": {
-					"uitgebracht": "2988",
+					"geldig": "2988",
 					"ongeldig": "5",
-					"blanco": "13"
+					"blanco": "13",
+					"uitgebracht": 3006
 				},
 				"uitslag": [
 					{
@@ -28947,14 +29308,15 @@
 		"naam": "Landgraaf",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "30072",
 				"stemmen": {
-					"uitgebracht": "12929",
+					"geldig": "12929",
 					"ongeldig": "28",
-					"blanco": "38"
+					"blanco": "38",
+					"uitgebracht": 12995
 				},
 				"uitslag": [
 					{
@@ -29014,14 +29376,15 @@
 		"naam": "Beek",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "13172",
 				"stemmen": {
-					"uitgebracht": "6610",
+					"geldig": "6610",
 					"ongeldig": "17",
-					"blanco": "25"
+					"blanco": "25",
+					"uitgebracht": 6652
 				},
 				"uitslag": [
 					{
@@ -29081,14 +29444,15 @@
 		"naam": "Beesel",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "10605",
 				"stemmen": {
-					"uitgebracht": "4654",
+					"geldig": "4654",
 					"ongeldig": "13",
-					"blanco": "28"
+					"blanco": "28",
+					"uitgebracht": 4695
 				},
 				"uitslag": [
 					{
@@ -29148,14 +29512,15 @@
 		"naam": "Bergen (L)",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "10368",
 				"stemmen": {
-					"uitgebracht": "4553",
+					"geldig": "4553",
 					"ongeldig": "14",
-					"blanco": "25"
+					"blanco": "25",
+					"uitgebracht": 4592
 				},
 				"uitslag": [
 					{
@@ -29215,14 +29580,15 @@
 		"naam": "Brunssum",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "23035",
 				"stemmen": {
-					"uitgebracht": "9999",
+					"geldig": "9999",
 					"ongeldig": "43",
-					"blanco": "32"
+					"blanco": "32",
+					"uitgebracht": 10074
 				},
 				"uitslag": [
 					{
@@ -29282,14 +29648,15 @@
 		"naam": "Gennep",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "13601",
 				"stemmen": {
-					"uitgebracht": "6114",
+					"geldig": "6114",
 					"ongeldig": "16",
-					"blanco": "18"
+					"blanco": "18",
+					"uitgebracht": 6148
 				},
 				"uitslag": [
 					{
@@ -29349,14 +29716,15 @@
 		"naam": "Heerlen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "69867",
 				"stemmen": {
-					"uitgebracht": "28306",
+					"geldig": "28306",
 					"ongeldig": "89",
-					"blanco": "99"
+					"blanco": "99",
+					"uitgebracht": 28494
 				},
 				"uitslag": [
 					{
@@ -29416,14 +29784,15 @@
 		"naam": "Kerkrade",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "35437",
 				"stemmen": {
-					"uitgebracht": "14454",
+					"geldig": "14454",
 					"ongeldig": "52",
-					"blanco": "69"
+					"blanco": "69",
+					"uitgebracht": 14575
 				},
 				"uitslag": [
 					{
@@ -29483,14 +29852,15 @@
 		"naam": "Maastricht",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "90971",
 				"stemmen": {
-					"uitgebracht": "38344",
+					"geldig": "38344",
 					"ongeldig": "150",
-					"blanco": "173"
+					"blanco": "173",
+					"uitgebracht": 38667
 				},
 				"uitslag": [
 					{
@@ -29550,14 +29920,15 @@
 		"naam": "Meerssen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "15360",
 				"stemmen": {
-					"uitgebracht": "7517",
+					"geldig": "7517",
 					"ongeldig": "16",
-					"blanco": "27"
+					"blanco": "27",
+					"uitgebracht": 7560
 				},
 				"uitslag": [
 					{
@@ -29617,14 +29988,15 @@
 		"naam": "Mook en Middelaar",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "6142",
 				"stemmen": {
-					"uitgebracht": "3447",
+					"geldig": "3447",
 					"ongeldig": "6",
-					"blanco": "17"
+					"blanco": "17",
+					"uitgebracht": 3470
 				},
 				"uitslag": [
 					{
@@ -29684,14 +30056,15 @@
 		"naam": "Nederweert",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "13333",
 				"stemmen": {
-					"uitgebracht": "6391",
+					"geldig": "6391",
 					"ongeldig": "20",
-					"blanco": "29"
+					"blanco": "29",
+					"uitgebracht": 6440
 				},
 				"uitslag": [
 					{
@@ -29751,14 +30124,15 @@
 		"naam": "Nuth",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "12666",
 				"stemmen": {
-					"uitgebracht": "6326",
+					"geldig": "6326",
 					"ongeldig": "14",
-					"blanco": "38"
+					"blanco": "38",
+					"uitgebracht": 6378
 				},
 				"uitslag": [
 					{
@@ -29818,14 +30192,15 @@
 		"naam": "Roermond",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "43748",
 				"stemmen": {
-					"uitgebracht": "18868",
+					"geldig": "18868",
 					"ongeldig": "63",
-					"blanco": "89"
+					"blanco": "89",
+					"uitgebracht": 19020
 				},
 				"uitslag": [
 					{
@@ -29885,14 +30260,15 @@
 		"naam": "Schinnen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "10397",
 				"stemmen": {
-					"uitgebracht": "5552",
+					"geldig": "5552",
 					"ongeldig": "17",
-					"blanco": "34"
+					"blanco": "34",
+					"uitgebracht": 5603
 				},
 				"uitslag": [
 					{
@@ -29952,14 +30328,15 @@
 		"naam": "Simpelveld",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "8517",
 				"stemmen": {
-					"uitgebracht": "3900",
+					"geldig": "3900",
 					"ongeldig": "14",
-					"blanco": "13"
+					"blanco": "13",
+					"uitgebracht": 3927
 				},
 				"uitslag": [
 					{
@@ -30019,14 +30396,15 @@
 		"naam": "Stein",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "20592",
 				"stemmen": {
-					"uitgebracht": "9509",
+					"geldig": "9509",
 					"ongeldig": "29",
-					"blanco": "23"
+					"blanco": "23",
+					"uitgebracht": 9561
 				},
 				"uitslag": [
 					{
@@ -30086,14 +30464,15 @@
 		"naam": "Vaals",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "6167",
 				"stemmen": {
-					"uitgebracht": "2492",
+					"geldig": "2492",
 					"ongeldig": "23",
-					"blanco": "19"
+					"blanco": "19",
+					"uitgebracht": 2534
 				},
 				"uitslag": [
 					{
@@ -30153,14 +30532,15 @@
 		"naam": "Venlo",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "75493",
 				"stemmen": {
-					"uitgebracht": "32282",
+					"geldig": "32282",
 					"ongeldig": "81",
-					"blanco": "147"
+					"blanco": "147",
+					"uitgebracht": 32510
 				},
 				"uitslag": [
 					{
@@ -30220,14 +30600,15 @@
 		"naam": "Venray",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "32815",
 				"stemmen": {
-					"uitgebracht": "14674",
+					"geldig": "14674",
 					"ongeldig": "29",
-					"blanco": "33"
+					"blanco": "33",
+					"uitgebracht": 14736
 				},
 				"uitslag": [
 					{
@@ -30287,14 +30668,15 @@
 		"naam": "Voerendaal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "10086",
 				"stemmen": {
-					"uitgebracht": "5259",
+					"geldig": "5259",
 					"ongeldig": "9",
-					"blanco": "20"
+					"blanco": "20",
+					"uitgebracht": 5288
 				},
 				"uitslag": [
 					{
@@ -30354,14 +30736,15 @@
 		"naam": "Weert",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "38389",
 				"stemmen": {
-					"uitgebracht": "17312",
+					"geldig": "17312",
 					"ongeldig": "57",
-					"blanco": "71"
+					"blanco": "71",
+					"uitgebracht": 17440
 				},
 				"uitslag": [
 					{
@@ -30421,14 +30804,15 @@
 		"naam": "Valkenburg aan de Geul",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "13606",
 				"stemmen": {
-					"uitgebracht": "6763",
+					"geldig": "6763",
 					"ongeldig": "14",
-					"blanco": "26"
+					"blanco": "26",
+					"uitgebracht": 6803
 				},
 				"uitslag": [
 					{
@@ -30488,14 +30872,15 @@
 		"naam": "Horst aan de Maas",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "31969",
 				"stemmen": {
-					"uitgebracht": "15102",
+					"geldig": "15102",
 					"ongeldig": "24",
-					"blanco": "67"
+					"blanco": "67",
+					"uitgebracht": 15193
 				},
 				"uitslag": [
 					{
@@ -30555,14 +30940,15 @@
 		"naam": "Leudal",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "28504",
 				"stemmen": {
-					"uitgebracht": "13480",
+					"geldig": "13480",
 					"ongeldig": "29",
-					"blanco": "73"
+					"blanco": "73",
+					"uitgebracht": 13582
 				},
 				"uitslag": [
 					{
@@ -30622,14 +31008,15 @@
 		"naam": "Maasgouw",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "19410",
 				"stemmen": {
-					"uitgebracht": "8671",
+					"geldig": "8671",
 					"ongeldig": "28",
-					"blanco": "42"
+					"blanco": "42",
+					"uitgebracht": 8741
 				},
 				"uitslag": [
 					{
@@ -30689,14 +31076,15 @@
 		"naam": "Roerdalen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "16488",
 				"stemmen": {
-					"uitgebracht": "7696",
+					"geldig": "7696",
 					"ongeldig": "17",
-					"blanco": "27"
+					"blanco": "27",
+					"uitgebracht": 7740
 				},
 				"uitslag": [
 					{
@@ -30756,14 +31144,15 @@
 		"naam": "Echt-Susteren",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "25751",
 				"stemmen": {
-					"uitgebracht": "12157",
+					"geldig": "12157",
 					"ongeldig": "22",
-					"blanco": "74"
+					"blanco": "74",
+					"uitgebracht": 12253
 				},
 				"uitslag": [
 					{
@@ -30823,14 +31212,15 @@
 		"naam": "Gulpen-Wittem",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "11926",
 				"stemmen": {
-					"uitgebracht": "6004",
+					"geldig": "6004",
 					"ongeldig": "19",
-					"blanco": "27"
+					"blanco": "27",
+					"uitgebracht": 6050
 				},
 				"uitslag": [
 					{
@@ -30890,14 +31280,15 @@
 		"naam": "Sittard-Geleen",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "74834",
 				"stemmen": {
-					"uitgebracht": "33514",
+					"geldig": "33514",
 					"ongeldig": "119",
-					"blanco": "159"
+					"blanco": "159",
+					"uitgebracht": 33792
 				},
 				"uitslag": [
 					{
@@ -30957,14 +31348,15 @@
 		"naam": "Peel en Maas",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "33913",
 				"stemmen": {
-					"uitgebracht": "14778",
+					"geldig": "14778",
 					"ongeldig": "46",
-					"blanco": "88"
+					"blanco": "88",
+					"uitgebracht": 14912
 				},
 				"uitslag": [
 					{
@@ -31024,14 +31416,15 @@
 		"naam": "Eijsden-Margraten",
 		"verkiezing": [
 			{
-				"datum": "2015-03-19",
+				"datum": "2015-03-18",
 				"type": "provincie",
 				"noemer": "Limburg",
 				"kiesgerechtigden": "19941",
 				"stemmen": {
-					"uitgebracht": "9848",
+					"geldig": "9848",
 					"ongeldig": "33",
-					"blanco": "32"
+					"blanco": "32",
+					"uitgebracht": 9913
 				},
 				"uitslag": [
 					{
