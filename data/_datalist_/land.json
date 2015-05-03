@@ -1,6 +1,37 @@
-[
-	"NL - Nederland",
-	"B - Belgi&euml;",
-	"D - Duitsland",
-	"UK - Verenigd Koninkrijk"
-]
+{
+	"NL":"[:nl]Nederland[:]",
+	
+	"B(E)":"[:nl]Belgi&euml;[:nl_ZZ]Belgie[:]",
+	"BG":"[:nl]Bulgarije[:]",
+	"CY":"[:nl]Cyprus[:]",
+	"DK":"[:nl]Denemarken[:]",
+	"D(E)":"[:nl]Duitsland[:]",
+	"EE":"[:nl]Estland[:]",
+	"FI":"[:nl]Finland[:]",
+	"F(R)":"[:nl]Frankrijk[:]",
+	"EL":"[:nl]Griekenland[:]",
+	"HU":"[:nl]Hongarije[:]",
+	"IE":"[:nl]Ierland[:]",
+	"IT":"[:nl]Itali&euml;[:nl_ZZ]Italie[:]",
+	"HR":"[:nl]Kroati&euml;[:nl_ZZ]Kroatie[:]",
+	"LT":"[:nl]Litouwen[:]",
+	"LU":"[:nl]Luxemburg[:]",
+	"MT":"[:nl]Malta[:]",
+	"A(T)":"[:nl]Oostenrijk[:]",
+	"PL":"[:nl]Polen[:]",
+	"P(T)":"[:nl]Portugal[:]",
+	"RO":"[:nl]Roemeni&euml;[:nl_ZZ]Roemenie[:]",
+	"SI":"[:nl]Sloveni&euml;[:nl_ZZ]Slovenie[:]",
+	"SK":"[:nl]Slowakije[:]",
+	"E(S)":"[:nl]Spanje[:]",
+	"CZ":"[:nl]Tsjechi&euml;[:nl_ZZ]Tsjechie[:]",
+	"UK":"[:nl]Verenigd Koninkrijk[:]",
+	"SE":"[:nl]Zweden[:]",
+	
+	"IS":"[:nl]IJsland[:]",
+	"TR":"[:nl]Turkije[:]",
+	"ME":"[:nl]Montenegro[:]",
+	"xx":"[:nl]Macedoni&euml;[:nl_ZZ]Macedonie[:]",
+	"RS":"[:nl]Servi&euml;[:nl_ZZ]Servie[:]",
+	"AL":"[:nl]Albani&euml;[:nl_ZZ]Albanie[:]"
+}
