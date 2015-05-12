@@ -7,3 +7,5 @@ The database also contains some information about [political parties](./politiek
 *(as found in [demografie.json](../definitie/demografie.json), populated by [topologie.json](./topologie.json))*
 
 (..)
+
+The used data format is JSON[plus](http://github.com/sentfanwyaerda/JSONplus) with [qTranslate](http://github.com/sentfanwyaerda/qTranslate); JSON with support of datalists and i18n strings.
