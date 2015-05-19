@@ -1,0 +1,603 @@
+[
+    {
+        "naam": "jhr. mr. J.P. Backer",
+        "partij": "D66",
+        "woonplaats": "&#039;s-Gravenhage",
+        "geboortedatum": "11-07-1953",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 61
+    },
+    {
+        "naam": "drs. M.A.M. Barth",
+        "partij": "PvdA",
+        "woonplaats": "Wassenaar",
+        "geboortedatum": "21-03-1964",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 51
+    },
+    {
+        "naam": "mr. H.G.J.M. Beckers",
+        "partij": "VVD",
+        "woonplaats": "&#039;s-Hertogenbosch",
+        "geboortedatum": "30-05-1944",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 71
+    },
+    {
+        "naam": "M.J. van Beek MBA",
+        "partij": "PVV",
+        "woonplaats": "Leersum",
+        "geboortedatum": "01-04-1960",
+        "ancienniteit": "2012-10-06",
+        "leeftijd": 55
+    },
+    {
+        "naam": "mr. dr. J. Beuving",
+        "partij": "PvdA",
+        "woonplaats": "&#039;s-Gravenhage",
+        "geboortedatum": "20-06-1965",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 49
+    },
+    {
+        "naam": "prof. dr. S.C. van Bijsterveld",
+        "partij": "CDA",
+        "woonplaats": "Rijen",
+        "geboortedatum": "20-08-1960",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 54
+    },
+    {
+        "naam": "mr. drs. M.M. de Boer",
+        "partij": "GroenLinks",
+        "woonplaats": "Amsterdam",
+        "geboortedatum": "21-11-1964",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 50
+    },
+    {
+        "naam": "mr. R.H.L.M. van Boxtel",
+        "partij": "D66",
+        "woonplaats": "Gorinchem",
+        "geboortedatum": "08-02-1954",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 61
+    },
+    {
+        "naam": "mr. drs. L.C. Brinkman",
+        "partij": "CDA",
+        "woonplaats": "Leiden",
+        "geboortedatum": "05-02-1948",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 67
+    },
+    {
+        "naam": "mr. W.L.J. Br&ouml;cker",
+        "partij": "VVD",
+        "woonplaats": "Wassenaar",
+        "geboortedatum": "17-08-1951",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 63
+    },
+    {
+        "naam": "mr. A. Broekers-Knol",
+        "partij": "VVD",
+        "rol": "Kamervoorzitter",
+        "woonplaats": "Overveen",
+        "geboortedatum": "23-11-1946",
+        "ancienniteit": "2001-10-06",
+        "leeftijd": 68
+    },
+    {
+        "naam": "prof. dr. J.A. Bruijn",
+        "partij": "VVD",
+        "woonplaats": "Wassenaar",
+        "geboortedatum": "07-02-1958",
+        "ancienniteit": "2012-11-10",
+        "leeftijd": 57
+    },
+    {
+        "naam": "P. van Dijk",
+        "partij": "PVV",
+        "woonplaats": "Kattendijke",
+        "geboortedatum": "28-12-1952",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 62
+    },
+    {
+        "naam": "A. Th. Duivesteijn",
+        "partij": "PvdA",
+        "woonplaats": "&#039;s-Gravenhage",
+        "geboortedatum": "27-08-1950",
+        "ancienniteit": "2013-02-09",
+        "leeftijd": 64
+    },
+    {
+        "naam": "prof.dr. H.M. Dupuis",
+        "partij": "VVD",
+        "woonplaats": "Voorschoten",
+        "geboortedatum": "30-05-1945",
+        "ancienniteit": "1999-06-12",
+        "leeftijd": 70
+    },
+    {
+        "naam": "mr. dr. A.W. Duthler",
+        "partij": "VVD",
+        "woonplaats": "&#039;s-Gravenhage",
+        "geboortedatum": "30-04-1967",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 48
+    },
+    {
+        "naam": "A. Elzinga",
+        "partij": "SP",
+        "woonplaats": "Overveen",
+        "geboortedatum": "12-12-1969",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 45
+    },
+    {
+        "naam": "prof. mr. J.W.M. Engels",
+        "partij": "D66",
+        "woonplaats": "Eelderwolde",
+        "geboortedatum": "21-08-1951",
+        "ancienniteit": "2004-09-11",
+        "leeftijd": 63
+    },
+    {
+        "naam": "prof.dr. P.H.J. Essers",
+        "partij": "CDA",
+        "woonplaats": "Loon op Zand",
+        "geboortedatum": "10-03-1957",
+        "ancienniteit": "2003-06-14",
+        "leeftijd": 58
+    },
+    {
+        "naam": "dr. P. Ester",
+        "partij": "ChristenUnie",
+        "woonplaats": "Baarn",
+        "geboortedatum": "05-06-1953",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 61
+    },
+    {
+        "naam": "M.H.M. Faber-Van de Klashorst",
+        "partij": "PVV",
+        "woonplaats": "Hoevelaken",
+        "geboortedatum": "16-06-1960",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 54
+    },
+    {
+        "naam": "dr. A.H. Flierman",
+        "partij": "CDA",
+        "woonplaats": "Markelo",
+        "geboortedatum": "12-11-1955",
+        "ancienniteit": "2009-06-20",
+        "leeftijd": 59
+    },
+    {
+        "naam": "prof. mr. H. Franken",
+        "partij": "CDA",
+        "woonplaats": "Den Haag",
+        "geboortedatum": "17-09-1936",
+        "ancienniteit": "2004-10-02",
+        "leeftijd": 78
+    },
+    {
+        "naam": "M.A.J.L. Frijters-Klijnen LL.B., BHS",
+        "partij": "PVV",
+        "woonplaats": "Bergen op Zoom",
+        "geboortedatum": "23-04-1953",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 62
+    },
+    {
+        "naam": "prof. dr. R.R. Ganzevoort",
+        "partij": "GroenLinks",
+        "woonplaats": "-",
+        "geboortedatum": "14-02-1965",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 50
+    },
+    {
+        "naam": "A.M.V. Gerkens",
+        "partij": "SP",
+        "woonplaats": "Haarlem",
+        "geboortedatum": "05-06-1965",
+        "ancienniteit": "2013-05-18",
+        "leeftijd": 49
+    },
+    {
+        "naam": "mr. G.J. de Graaf",
+        "partij": "VVD",
+        "woonplaats": "Apeldoorn",
+        "geboortedatum": "28-02-1950",
+        "ancienniteit": "2003-06-14",
+        "leeftijd": 65
+    },
+    {
+        "naam": "mr. Th.C. de Graaf",
+        "partij": "D66",
+        "woonplaats": "Nijmegen",
+        "geboortedatum": "11-06-1957",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 57
+    },
+    {
+        "naam": "mr. F.H.G. de Grave",
+        "partij": "VVD",
+        "woonplaats": "Amsterdam",
+        "geboortedatum": "27-06-1955",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 59
+    },
+    {
+        "naam": "drs. L.M.L.H.A. Hermans",
+        "partij": "VVD",
+        "woonplaats": "Beetsterzwaag (Frl.)",
+        "geboortedatum": "23-04-1951",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 64
+    },
+    {
+        "naam": "mr. W.B. Hoekstra",
+        "partij": "CDA",
+        "woonplaats": "Bussum",
+        "geboortedatum": "30-09-1975",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 39
+    },
+    {
+        "naam": "mr. G. Holdijk",
+        "partij": "SGP",
+        "woonplaats": "Uddel (gem. Apeldoorn)",
+        "geboortedatum": "17-11-1944",
+        "ancienniteit": "1990-05-26",
+        "leeftijd": 70
+    },
+    {
+        "naam": "dr. G. ter Horst",
+        "partij": "PvdA",
+        "woonplaats": "Amsterdam",
+        "geboortedatum": "22-03-1952",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 63
+    },
+    {
+        "naam": "W.H. Huijbregts-Schiedon",
+        "partij": "VVD",
+        "woonplaats": "Oosterhout",
+        "geboortedatum": "13-05-1948",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 67
+    },
+    {
+        "naam": "generaal-majoor der mariniers (b.d.) F.E. van Kappen",
+        "partij": "VVD",
+        "woonplaats": "Doorn",
+        "geboortedatum": "04-08-1941",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 73
+    },
+    {
+        "naam": "prof. mr. dr. E.M. Kneppers-Heijnert",
+        "partij": "VVD",
+        "woonplaats": "-",
+        "geboortedatum": "17-07-1951",
+        "ancienniteit": "2003-06-14",
+        "leeftijd": 63
+    },
+    {
+        "naam": "drs. M.A.J. Knip",
+        "partij": "VVD",
+        "woonplaats": "Almelo",
+        "geboortedatum": "14-04-1947",
+        "ancienniteit": "2010-10-30",
+        "leeftijd": 68
+    },
+    {
+        "naam": "drs. N.K. Koffeman",
+        "partij": "PvdD",
+        "woonplaats": "Vierhouten",
+        "geboortedatum": "12-05-1958",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 57
+    },
+    {
+        "naam": "mr. C.J. Kok",
+        "partij": "PVV",
+        "woonplaats": "Almere",
+        "geboortedatum": "01-12-1949",
+        "ancienniteit": "2012-10-06",
+        "leeftijd": 65
+    },
+    {
+        "naam": "drs.ir. A.L. Koning",
+        "partij": "PvdA",
+        "woonplaats": "Delft",
+        "geboortedatum": "09-03-1970",
+        "ancienniteit": "2013-06-22",
+        "leeftijd": 45
+    },
+    {
+        "naam": "prof. dr. R.A. Koole",
+        "partij": "PvdA",
+        "woonplaats": "Oegstgeest",
+        "geboortedatum": "16-08-1953",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 61
+    },
+    {
+        "naam": "A. Kops",
+        "partij": "PVV",
+        "woonplaats": "-",
+        "geboortedatum": "23-11-1984",
+        "ancienniteit": "2014-07-12",
+        "leeftijd": 30
+    },
+    {
+        "naam": "M.J.M. Kox",
+        "partij": "SP",
+        "woonplaats": "Tilburg",
+        "geboortedatum": "06-05-1953",
+        "ancienniteit": "2003-06-14",
+        "leeftijd": 62
+    },
+    {
+        "naam": "prof. dr. R. Kuiper",
+        "partij": "ChristenUnie",
+        "woonplaats": "Amsterdam",
+        "geboortedatum": "05-04-1962",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 53
+    },
+    {
+        "naam": "prof.dr. C.A. de Lange",
+        "partij": "OSF",
+        "woonplaats": "Monnickendam",
+        "geboortedatum": "20-06-1943",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 71
+    },
+    {
+        "naam": "drs. P.R.H.M. van der Linden",
+        "partij": "CDA",
+        "woonplaats": "Nuth",
+        "geboortedatum": "14-12-1943",
+        "ancienniteit": "1999-06-12",
+        "leeftijd": 71
+    },
+    {
+        "naam": "drs. M.Y. Linthorst",
+        "partij": "PvdA",
+        "woonplaats": "Abcoude",
+        "geboortedatum": "16-02-1952",
+        "ancienniteit": "1999-06-19",
+        "leeftijd": 63
+    },
+    {
+        "naam": "mr. P.E.M.S. Lokin-Sassen",
+        "partij": "CDA",
+        "woonplaats": "Groningen",
+        "geboortedatum": "09-10-1946",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 68
+    },
+    {
+        "naam": "drs. M.J.Th. Martens",
+        "partij": "CDA",
+        "woonplaats": "Nijmegen",
+        "geboortedatum": "08-01-1955",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 60
+    },
+    {
+        "naam": "drs. E.Th.M. Meijer",
+        "partij": "SP",
+        "woonplaats": "Rotterdam",
+        "geboortedatum": "05-12-1944",
+        "ancienniteit": "2014-07-12",
+        "leeftijd": 70
+    },
+    {
+        "naam": "J.G. Nagel",
+        "partij": "50PLUS",
+        "woonplaats": "Hilversum",
+        "geboortedatum": "20-06-1939",
+        "ancienniteit": "2005-06-18",
+        "leeftijd": 75
+    },
+    {
+        "naam": "G.J.F. Popken LL.M.",
+        "partij": "PVV",
+        "woonplaats": "Den Haag",
+        "geboortedatum": "21-08-1983",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 31
+    },
+    {
+        "naam": "drs. A. Postema",
+        "partij": "PvdA",
+        "woonplaats": "Maastricht",
+        "geboortedatum": "02-11-1969",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 45
+    },
+    {
+        "naam": "mr. A.C. Quik-Schuijt",
+        "partij": "SP",
+        "woonplaats": "Zeist",
+        "geboortedatum": "02-11-1942",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 72
+    },
+    {
+        "naam": "dr. G.A.T.M. Reuten",
+        "partij": "SP",
+        "woonplaats": "Amsterdam",
+        "geboortedatum": "16-04-1946",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 69
+    },
+    {
+        "naam": "mr. T.P.A.M. Reynaers",
+        "partij": "PVV",
+        "woonplaats": "Roosendaal",
+        "geboortedatum": "23-05-1982",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 33
+    },
+    {
+        "naam": "mr.dr. R.F. Ruers",
+        "partij": "SP",
+        "woonplaats": "Utrecht",
+        "geboortedatum": "24-05-1947",
+        "ancienniteit": "2005-11-19",
+        "leeftijd": 68
+    },
+    {
+        "naam": "prof. dr. ing. S. Schaap",
+        "partij": "VVD",
+        "woonplaats": "Emmeloord",
+        "geboortedatum": "20-05-1946",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 69
+    },
+    {
+        "naam": "mr. M.C. Scholten",
+        "partij": "D66",
+        "woonplaats": "Amsterdam",
+        "geboortedatum": "16-05-1946",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 69
+    },
+    {
+        "naam": "mr. J.M. Schouwenaar",
+        "partij": "VVD",
+        "woonplaats": "Middelburg",
+        "geboortedatum": "13-05-1947",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 68
+    },
+    {
+        "naam": "prof. mr. N.J. Schrijver",
+        "partij": "PvdA",
+        "woonplaats": "Oegstgeest",
+        "geboortedatum": "21-05-1954",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 61
+    },
+    {
+        "naam": "prof. dr. E.M. Sent",
+        "partij": "PvdA",
+        "woonplaats": "Nijmegen",
+        "geboortedatum": "09-03-1967",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 48
+    },
+    {
+        "naam": "drs. T.M. Slagter-Roukema",
+        "partij": "SP",
+        "woonplaats": "Zuidhorn (Gr.)",
+        "geboortedatum": "27-12-1948",
+        "ancienniteit": "2003-06-14",
+        "leeftijd": 66
+    },
+    {
+        "naam": "drs. R. S&ouml;rensen",
+        "partij": "PVV",
+        "woonplaats": "Rotterdam",
+        "geboortedatum": "04-05-1947",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 68
+    },
+    {
+        "naam": "ir. drs. G.A. van Strien",
+        "partij": "PVV",
+        "woonplaats": "Arcen (L)",
+        "geboortedatum": "10-06-1951",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 63
+    },
+    {
+        "naam": "mr. dr. M.H.A. Strik",
+        "partij": "GroenLinks",
+        "woonplaats": "Oosterbeek (Gld.)",
+        "geboortedatum": "28-09-1961",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 53
+    },
+    {
+        "naam": "mr. B.J. Swagerman",
+        "partij": "VVD",
+        "woonplaats": "Bilthoven",
+        "geboortedatum": "07-07-1959",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 55
+    },
+    {
+        "naam": "dr. J.J. Sylvester",
+        "partij": "PvdA",
+        "woonplaats": "Naarden",
+        "geboortedatum": "19-09-1965",
+        "ancienniteit": "2003-06-14",
+        "leeftijd": 49
+    },
+    {
+        "naam": "drs. G.H. Terpstra",
+        "partij": "CDA",
+        "woonplaats": "Utrecht",
+        "geboortedatum": "04-06-1940",
+        "ancienniteit": "2003-06-14",
+        "leeftijd": 75
+    },
+    {
+        "naam": "P. C. P. Thissen",
+        "partij": "GroenLinks",
+        "woonplaats": "Roermond",
+        "geboortedatum": "19-05-1957",
+        "ancienniteit": "2004-10-16",
+        "leeftijd": 58
+    },
+    {
+        "naam": "J.G. Vlietstra",
+        "partij": "PvdA",
+        "woonplaats": "Winschoten",
+        "geboortedatum": "13-04-1948",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 67
+    },
+    {
+        "naam": "ir. M.B. Vos",
+        "partij": "GroenLinks",
+        "woonplaats": "Amsterdam",
+        "geboortedatum": "04-05-1957",
+        "ancienniteit": "2011-06-11",
+        "leeftijd": 58
+    },
+    {
+        "naam": "prof.mr. K.G. de Vries",
+        "partij": "PvdA",
+        "woonplaats": "Pijnacker (Z.H.)",
+        "geboortedatum": "28-04-1943",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 72
+    },
+    {
+        "naam": "G. de Vries-Leggedoor",
+        "partij": "CDA",
+        "woonplaats": "Nieuw-Buinen",
+        "geboortedatum": "30-06-1955",
+        "ancienniteit": "2007-06-16",
+        "leeftijd": 59
+    },
+    {
+        "naam": "ir. W.W. van Zandbrink",
+        "partij": "PvdA",
+        "woonplaats": "Aagtekerke",
+        "geboortedatum": "15-09-1958",
+        "ancienniteit": "2014-09-27",
+        "leeftijd": 56
+    }
+]
